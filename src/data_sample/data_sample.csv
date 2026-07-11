@@ -1,0 +1,1001 @@
+disaster_type,date,latitude,longitude,depth_km,location,source,es_severo
+Earthquake,2014-06-29,-55.4467,-28.2911,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2022-07-13,-16.8461,-71.5427,21.132,southern Peru,USGS,0
+Earthquake,2012-09-25,-15.517,-173.901,121.7,"49 km NNW of Hihifo, Tonga",USGS,0
+Earthquake,2016-08-20,-54.9178,-31.5455,5.37,South Georgia Island region,USGS,0
+Earthquake,2008-03-07,-17.025,175.736,10.0,"193 km WNW of Lautoka, Fiji",USGS,0
+Earthquake,2019-08-04,30.5857,50.8453,7.72,"25 km N of Dogonbadan, Iran",USGS,0
+Earthquake,2009-11-28,52.956,159.627,61.7,"66 km E of Petropavlovsk-Kamchatsky, Russia",USGS,0
+Earthquake,2020-12-16,53.5231,-160.0638,10.48,"203 km S of Sand Point, Alaska",USGS,0
+Earthquake,2015-06-01,4.6521,95.5695,73.45,"83 km NW of Meulaboh, Indonesia",USGS,0
+Earthquake,2008-05-19,1.724,99.18,10.0,"39 km NNW of Padangsidempuan, Indonesia",USGS,0
+Earthquake,2018-04-25,-3.8619,129.7072,10.0,"104 km ESE of Amahai, Indonesia",USGS,0
+Earthquake,2024-08-15,-6.9993,147.0933,10.0,"32 km SSE of Lae, Papua New Guinea",USGS,0
+Earthquake,2001-09-20,-11.375,115.042,10.0,"285 km S of Nusa Dua, Indonesia",USGS,0
+Earthquake,2018-08-21,-16.0315,168.1428,9.0,"78 km E of Lakatoro, Vanuatu",USGS,1
+Earthquake,2002-04-28,24.198,122.675,44.5,"44 km SW of Yonakuni, Japan",USGS,0
+Earthquake,2015-12-20,-6.2785,154.6759,52.89,"89 km W of Panguna, Papua New Guinea",USGS,0
+Earthquake,2009-01-05,-0.763,133.475,29.9,"66 km W of Manokwari, Indonesia",USGS,0
+Earthquake,2012-08-01,-4.39,144.639,49.2,"73 km ESE of Angoram, Papua New Guinea",USGS,0
+Earthquake,2025-07-20,52.9166,160.7435,19.179,"143 km E of Petropavlovsk-Kamchatsky, Russia",USGS,0
+Earthquake,2012-08-30,-50.143,114.08,10.0,western Indian-Antarctic Ridge,USGS,0
+Earthquake,2003-03-26,12.518,92.564,33.0,"92 km N of Bamboo Flat, India",USGS,0
+Earthquake,2022-06-11,-8.2905,111.4594,108.58,"36 km SW of Trenggalek, Indonesia",USGS,0
+Earthquake,2016-11-03,12.2743,-87.8322,40.52,"66 km SW of Jiquilillo, Nicaragua",USGS,0
+Earthquake,2006-08-07,-15.607,167.549,45.9,"42 km ESE of Luganville, Vanuatu",USGS,0
+Earthquake,2022-05-18,23.5366,123.7427,21.23,"98 km SSW of Ishigaki, Japan",USGS,0
+Earthquake,2005-01-29,-24.559,-176.064,19.0,south of the Fiji Islands,USGS,0
+Earthquake,2020-10-17,-3.3215,100.2724,10.0,"187 km SW of Sungai Penuh, Indonesia",USGS,0
+Earthquake,2019-06-23,40.2735,-124.3003333,9.44,"6km SSW of Petrolia, CA",USGS,0
+Earthquake,2018-01-11,33.7205,45.7027,10.0,"14 km ESE of Mandal?, Iraq",USGS,0
+Earthquake,2003-10-10,39.575,98.222,10.0,"26 km SSW of Jiayuguan, China",USGS,0
+Earthquake,2004-12-02,-3.674,135.429,10.0,"35 km SSW of Nabire, Indonesia",USGS,0
+Earthquake,2017-02-09,-56.9812,-150.743,10.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2002-11-03,63.0484,-144.6133,0.4,"45 km WNW of Mentasta Lake, Alaska",USGS,0
+Earthquake,2005-02-22,33.182,137.154,369.5,"124 km ESE of Shing?, Japan",USGS,0
+Earthquake,2022-02-24,-30.7078,-177.4512,10.0,"Kermadec Islands, New Zealand",USGS,0
+Earthquake,2004-07-30,3.634,126.798,26.3,"Pulau-Pulau Talaud, Indonesia",USGS,0
+Earthquake,2002-12-09,37.869,19.973,10.0,"54 km SW of Lixoúri, Greece",USGS,0
+Earthquake,2003-10-04,-31.277,-177.384,33.0,Kermadec Islands region,USGS,0
+Earthquake,2024-04-23,23.8243,121.6339,10.0,"17 km S of Hualien City, Taiwan",USGS,0
+Earthquake,2022-01-03,24.0079,122.2592,19.0,"66 km E of Hualien City, Taiwan",USGS,1
+Earthquake,2024-07-25,-6.1464,102.8461,10.0,"238 km S of Pagar Alam, Indonesia",USGS,0
+Earthquake,2013-09-18,19.1862,145.6039,117.0,"Maug Islands region, Northern Mariana Islands",USGS,0
+Earthquake,2013-11-16,-60.3525,-46.3486,10.0,Scotia Sea,USGS,0
+Earthquake,2013-09-16,-55.8129,-124.156,10.0,southern East Pacific Rise,USGS,0
+Earthquake,2003-09-06,-57.419,-25.639,33.0,South Sandwich Islands region,USGS,0
+Earthquake,2001-11-30,-33.114,-178.614,10.0,south of the Kermadec Islands,USGS,0
+Earthquake,2018-09-20,4.4612,127.7858,120.32,"275 km SE of Pondaguitan, Philippines",USGS,0
+Earthquake,2010-04-02,-24.646,-176.137,31.6,south of the Fiji Islands,USGS,0
+Earthquake,2025-09-21,52.2948,160.2652,27.541,"139 km SE of Petropavlovsk-Kamchatsky, Russia",USGS,0
+Earthquake,2008-10-09,-15.248,-173.515,10.0,"83 km NNE of Hihifo, Tonga",USGS,0
+Earthquake,2009-05-27,-23.634,-67.723,111.5,"93 km SSE of San Pedro de Atacama, Chile",USGS,0
+Earthquake,2004-11-26,-3.376,135.492,10.0,"2 km SSW of Nabire, Indonesia",USGS,0
+Earthquake,2001-10-29,17.109,-100.031,10.0,"Guerrero, Mexico",USGS,0
+Earthquake,2011-01-13,-20.628,168.471,9.0,"118 km NNE of Tadine, New Caledonia",USGS,1
+Earthquake,2008-05-06,53.475,-35.129,10.0,Reykjanes Ridge,USGS,0
+Earthquake,2000-05-04,17.513,147.629,33.0,Mariana Islands region,USGS,0
+Earthquake,2022-01-10,-22.693,-174.9208,10.0,"150 km S of ‘Ohonua, Tonga",USGS,0
+Earthquake,2021-10-29,-59.1418,-25.7541,48.06,South Sandwich Islands region,USGS,0
+Earthquake,2022-12-25,18.5988,145.4632,239.168,"Pagan region, Northern Mariana Islands",USGS,0
+Earthquake,2020-01-13,36.0821,139.9162,40.94,"3 km NNE of Iwai, Japan",USGS,0
+Earthquake,2021-03-21,54.869,163.304,10.0,"160 km SSE of Ust’-Kamchatsk Staryy, Russia",USGS,0
+Earthquake,2007-12-11,-62.063,-65.835,10.0,southern Pacific Ocean,USGS,0
+Earthquake,2006-06-11,-57.25,-141.25,10.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2016-11-18,-42.591,173.2622,6.85,"76 km NE of Amberley, New Zealand",USGS,0
+Earthquake,2023-01-02,30.2167,-41.9612,10.0,northern Mid-Atlantic Ridge,USGS,0
+Earthquake,2004-12-07,-20.018,156.74,28.9,east of Australia,USGS,0
+Earthquake,2015-11-28,10.4635,-86.1935,20.97,"60 km W of Sardinal, Costa Rica",USGS,0
+Earthquake,2004-12-27,-4.198,152.796,25.8,"60 km ENE of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2020-07-12,9.4142,-69.8602,10.0,"41 km S of El Tocuyo, Venezuela",USGS,0
+Earthquake,2003-08-29,-59.286,-24.877,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2011-11-15,-0.095,121.914,276.2,"135 km NW of Luwuk, Indonesia",USGS,0
+Earthquake,2000-04-08,1.091,120.151,33.0,"223 km N of Palu, Indonesia",USGS,0
+Earthquake,2015-11-05,56.1986,162.4331,60.96,"4 km SW of Ust’-Kamchatsk Staryy, Russia",USGS,0
+Earthquake,2004-12-29,10.327,93.693,29.2,"180 km SE of Port Blair, India",USGS,0
+Earthquake,2018-06-16,-32.6975,-178.2844,10.0,south of the Kermadec Islands,USGS,0
+Earthquake,2025-01-06,-10.734,161.868,97.196,"31 km S of Kirakira, Solomon Islands",USGS,0
+Earthquake,2007-05-07,-19.251,-179.362,682.2,"191 km SE of Levuka, Fiji",USGS,0
+Earthquake,2010-04-11,-5.196,152.429,41.0,"95 km S of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2023-10-29,-19.3871,168.8034,68.0,"53 km WNW of Isangel, Vanuatu",USGS,1
+Earthquake,2025-10-07,-15.5734,168.1814,10.0,"100 km ENE of Norsup, Vanuatu",USGS,0
+Earthquake,2007-01-16,-15.175,-174.358,35.0,"105 km NW of Hihifo, Tonga",USGS,0
+Earthquake,2007-06-08,9.433,-40.53,10.0,central Mid-Atlantic Ridge,USGS,0
+Earthquake,2008-09-15,-24.166,-66.799,152.1,"49 km W of San Antonio de los Cobres, Argentina",USGS,0
+Earthquake,2010-09-09,-62.202,154.853,10.0,Balleny Islands region,USGS,0
+Earthquake,2011-01-05,31.545,142.177,21.4,"Izu Islands, Japan region",USGS,0
+Earthquake,2007-06-08,18.834,-70.315,112.4,"1 km S of Piedra Blanca, Dominican Republic",USGS,0
+Earthquake,2020-06-25,35.6685,82.4472,10.0,"276 km SE of Hotan, China",USGS,0
+Earthquake,2005-11-20,-24.639,179.575,538.6,south of the Fiji Islands,USGS,0
+Earthquake,2017-12-13,-54.2189,2.1628,17.0,Bouvet Island region,USGS,1
+Earthquake,2021-03-07,-37.621,179.8964,10.0,"201 km NE of Gisborne, New Zealand",USGS,0
+Earthquake,2021-03-08,-28.2196,-177.6489,10.0,Kermadec Islands region,USGS,0
+Earthquake,2015-03-25,49.4154,-128.1719,13.08,"147 km WSW of Vernon, Canada",USGS,0
+Earthquake,2018-09-10,-31.7447,-179.3728,115.0,Kermadec Islands region,USGS,1
+Earthquake,2008-05-11,-17.74,-173.283,38.8,"125 km NE of Neiafu, Tonga",USGS,0
+Earthquake,2009-08-07,-7.968,156.619,27.7,"28 km WNW of Gizo, Solomon Islands",USGS,0
+Earthquake,2021-03-05,-29.0728,-176.7753,10.0,Kermadec Islands region,USGS,0
+Earthquake,2009-12-23,-1.434,99.393,19.0,"119 km WSW of Padang, Indonesia",USGS,1
+Earthquake,2007-10-31,18.9,145.388,207.0,"Pagan region, Northern Mariana Islands",USGS,1
+Earthquake,2025-07-30,51.4177,159.5689,39.035,"186 km SSE of Vilyuchinsk, Russia",USGS,0
+Earthquake,2019-04-16,-31.1716,-179.0685,10.0,Kermadec Islands region,USGS,0
+Earthquake,2007-06-08,13.835,-90.766,47.8,"11 km SSE of Puerto San José, Guatemala",USGS,0
+Earthquake,2014-04-11,-7.0458,155.4806,10.0,"80 km S of Panguna, Papua New Guinea",USGS,0
+Earthquake,2001-10-16,53.685,-159.882,33.0,"188 km SSE of Sand Point, Alaska",USGS,0
+Earthquake,2007-06-16,-3.083,138.734,10.0,"217 km WSW of Abepura, Indonesia",USGS,0
+Earthquake,2007-09-14,-3.003,102.351,35.0,"55 km NNW of Curup, Indonesia",USGS,0
+Earthquake,2023-03-23,38.0109,36.4273,10.0,"6 km W of Göksun, Turkey",USGS,0
+Earthquake,2002-08-08,30.916,99.927,33.0,"219 km WNW of Kangding, China",USGS,0
+Earthquake,2022-08-14,37.9952,27.1512,11.697,"3 km SE of Özdere, Turkey",USGS,0
+Earthquake,2009-03-06,-15.156,-173.309,3.0,"102 km NNE of Hihifo, Tonga",USGS,0
+Earthquake,2018-08-13,25.7988,125.2304,107.61,"110 km N of Hirara, Japan",USGS,0
+Earthquake,2015-09-01,15.3905,-92.7217,104.42,"4 km NNE of Hidalgo, Mexico",USGS,0
+Earthquake,2009-03-03,-56.347,-27.064,134.0,South Sandwich Islands region,USGS,0
+Earthquake,2000-09-06,1.465,126.259,64.6,"142 km E of Laikit, Laikit II (Dimembe), Indonesia",USGS,0
+Earthquake,2001-06-08,46.69,-0.99,12.0,France,USGS,0
+Earthquake,2022-09-17,22.9547,121.2227,10.0,Taiwan region,USGS,0
+Earthquake,2003-11-08,-6.332,131.245,33.0,"184 km WSW of Tual, Indonesia",USGS,0
+Earthquake,2011-01-29,19.683,-109.178,10.0,Revilla Gigedo Islands region,USGS,0
+Earthquake,2001-10-02,-14.591,167.327,33.0,"56 km NNE of Port-Olry, Vanuatu",USGS,0
+Earthquake,2014-05-31,9.4177,126.6188,10.0,"49 km ENE of Cortes, Philippines",USGS,0
+Earthquake,2007-07-31,27.343,126.897,10.0,"134 km NW of Nago, Japan",USGS,0
+Earthquake,2025-04-29,-6.2542,149.8973,35.0,"39 km E of Kandrian, Papua New Guinea",USGS,0
+Earthquake,2022-09-09,-2.2492,138.1979,18.0,"Papua, Indonesia",USGS,1
+Earthquake,2014-03-29,-0.848,-21.9196,12.0,central Mid-Atlantic Ridge,USGS,0
+Earthquake,2025-11-15,-28.8239,-71.5282,31.144,"79 km WSW of Vallenar, Chile",USGS,0
+Earthquake,2019-05-10,-28.5642,-177.0228,10.0,Kermadec Islands region,USGS,0
+Earthquake,2015-11-04,-6.7492,105.0488,10.0,"95 km WSW of Labuan, Indonesia",USGS,0
+Earthquake,2019-05-06,-3.2596,-12.0948,10.0,north of Ascension Island,USGS,0
+Earthquake,2024-04-03,24.174,121.766,10.0,"27 km NE of Hualien City, Taiwan",USGS,0
+Earthquake,2021-10-30,-7.7093,125.4591,17.43,"94 km N of Dili, Timor Leste",USGS,0
+Earthquake,2016-12-18,-34.9886,-107.8694,10.0,southern East Pacific Rise,USGS,0
+Earthquake,2018-07-02,77.4303,8.0225,10.0,"199 km WSW of Longyearbyen, Svalbard and Jan Mayen",USGS,0
+Earthquake,2021-06-24,-55.039,-127.1075,10.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2008-03-24,-16.912,167.031,10.0,"98 km SSW of Lakatoro, Vanuatu",USGS,0
+Earthquake,2022-12-23,-45.5705,-76.7349,10.0,"Off the coast of Aisen, Chile",USGS,0
+Earthquake,2007-07-13,51.838,-176.28,35.0,"24 km E of Adak, Alaska",USGS,1
+Earthquake,2023-04-27,26.0902,128.5561,10.0,"72 km SE of Ginoza, Japan",USGS,0
+Earthquake,2019-06-25,-47.8719,99.4532,10.0,southeast Indian Ridge,USGS,0
+Earthquake,2025-03-11,28.7976,130.2951,28.76,"78 km ENE of Tatsugō, Japan",USGS,0
+Earthquake,2025-04-05,-6.2918,151.6058,10.0,"182 km ESE of Kimbe, Papua New Guinea",USGS,0
+Earthquake,2006-09-12,-28.944,-68.898,114.0,"70 km WSW of Vinchina, Argentina",USGS,1
+Earthquake,2020-07-21,-26.0925,-177.4506,172.48,south of the Fiji Islands,USGS,0
+Earthquake,2004-05-28,36.29,51.61,17.0,"41 km SSE of Nowshahr, Iran",USGS,1
+Earthquake,2023-05-04,-33.1658,-179.3826,24.708,south of the Kermadec Islands,USGS,0
+Earthquake,2009-06-15,-13.563,-76.133,42.2,"11 km N of San Clemente, Peru",USGS,0
+Earthquake,2011-05-10,-20.234,168.318,10.0,"126 km SW of Isangel, Vanuatu",USGS,0
+Earthquake,2012-02-02,-17.933,167.126,10.0,"127 km W of Port-Vila, Vanuatu",USGS,0
+Earthquake,2014-07-27,23.724,-45.5809,10.0,northern Mid-Atlantic Ridge,USGS,1
+Earthquake,2023-03-03,-30.8827,-13.4117,10.0,southern Mid-Atlantic Ridge,USGS,0
+Earthquake,2020-06-18,-33.4107,-178.0116,10.0,south of the Kermadec Islands,USGS,0
+Earthquake,2011-09-16,-20.679,169.79,106.4,"136 km SSE of Isangel, Vanuatu",USGS,0
+Earthquake,2010-11-15,34.549,70.458,34.1,"13 km N of Jal?l?b?d, Afghanistan",USGS,0
+Earthquake,2009-01-23,-6.339,154.945,47.0,"59 km W of Panguna, Papua New Guinea",USGS,0
+Earthquake,2012-01-28,-36.793,-110.517,10.0,southern East Pacific Rise,USGS,0
+Earthquake,2007-04-01,-7.253,156.006,10.0,"118 km SSE of Panguna, Papua New Guinea",USGS,0
+Earthquake,2002-01-06,52.097,-171.058,33.0,"176 km WSW of Nikolski, Alaska",USGS,0
+Earthquake,2007-02-24,1.054,-85.259,10.0,off the coast of Ecuador,USGS,0
+Earthquake,2012-08-10,52.633,-167.421,13.0,"102 km ESE of Nikolski, Alaska",USGS,1
+Earthquake,2019-07-15,-0.4407,127.8396,10.0,"133 km SSE of Sofifi, Indonesia",USGS,0
+Earthquake,2021-08-15,-57.8242,-25.3739,47.64,South Sandwich Islands region,USGS,0
+Earthquake,2021-04-29,43.8194,-128.0455,10.0,off the coast of Oregon,USGS,0
+Earthquake,2014-01-28,56.6255,-34.274,10.1,Reykjanes Ridge,USGS,0
+Earthquake,2011-05-13,-5.523,147.436,46.5,"eastern New Guinea region, Papua New Guinea",USGS,0
+Earthquake,2007-02-08,8.596,-39.433,10.0,central Mid-Atlantic Ridge,USGS,0
+Earthquake,2017-10-22,-6.0932,30.7397,10.0,"45 km NW of Mpanda, Tanzania",USGS,0
+Earthquake,2000-06-13,35.146,27.125,10.0,"35 km SSE of Fry, Greece",USGS,0
+Earthquake,2000-11-16,-14.352,166.951,33.0,"77 km N of Port-Olry, Vanuatu",USGS,0
+Earthquake,2001-02-22,-16.687,-72.947,49.3,"25 km WSW of El Cardo, Peru",USGS,0
+Earthquake,2012-04-11,4.601,90.78,17.3,off the west coast of northern Sumatra,USGS,0
+Earthquake,2007-09-19,-4.628,131.363,40.2,"189 km NW of Tual, Indonesia",USGS,0
+Earthquake,2010-01-06,-4.405,151.746,199.6,"51 km WSW of Rabaul, Papua New Guinea",USGS,0
+Earthquake,2024-03-13,-0.1274,125.2292,42.886,"109 km SE of Modisi, Indonesia",USGS,0
+Earthquake,2000-11-15,38.397,42.922,65.3,"19 km NW of Geva?, Turkey",USGS,0
+Earthquake,2012-04-19,36.976,141.181,31.9,"27 km ESE of Iwaki, Japan",USGS,0
+Earthquake,2013-02-06,-10.765,164.629,10.0,"127 km W of Lata, Solomon Islands",USGS,0
+Earthquake,2006-07-19,-9.216,108.373,10.0,"196 km SSW of Sidareja, Indonesia",USGS,0
+Earthquake,2011-09-20,-18.789,169.099,213.8,"85 km NNW of Isangel, Vanuatu",USGS,0
+Earthquake,2011-03-12,39.099,142.304,24.6,"42 km ESE of Kamaishi, Japan",USGS,0
+Earthquake,2017-04-17,-13.3783,166.6455,10.0,"112 km WNW of Sola, Vanuatu",USGS,0
+Earthquake,2025-07-30,49.9908,157.3473,10.0,"115 km SE of Severo-Kuril’sk, Russia",USGS,0
+Earthquake,2022-12-08,45.2244,-27.9027,10.0,northern Mid-Atlantic Ridge,USGS,0
+Earthquake,2018-08-28,16.8044,146.8395,55.0,"211 km NNE of Saipan, Northern Mariana Islands",USGS,1
+Earthquake,2017-09-08,15.1423,-94.4541,31.39,"113 km SW of Cabeza de Toro, Mexico",USGS,0
+Earthquake,2012-11-27,-56.082,-27.281,89.4,South Sandwich Islands region,USGS,0
+Earthquake,2019-12-30,35.6305,74.6387,24.32,"43 km SE of Gilgit, Pakistan",USGS,0
+Earthquake,2018-10-22,37.5457,141.4753,43.05,"42 km E of Namie, Japan",USGS,0
+Earthquake,2010-05-02,51.588,-175.216,31.6,"97 km SW of Atka, Alaska",USGS,0
+Earthquake,2024-08-01,54.1057,-159.6959,15.33,"146 km SSE of Sand Point, Alaska",USGS,0
+Earthquake,2005-02-25,38.107,72.707,114.9,"110 km W of Murghob, Tajikistan",USGS,0
+Earthquake,2002-01-28,-15.304,-173.225,33.0,"94 km NE of Hihifo, Tonga",USGS,1
+Earthquake,2025-07-13,-24.1879,-66.7496,182.238,"43 km W of San Antonio de los Cobres, Argentina",USGS,0
+Earthquake,2021-05-03,25.7702,123.885,199.0,"160 km N of Ishigaki, Japan",USGS,0
+Earthquake,2016-11-14,51.0735,178.8402,34.26,"Rat Islands, Aleutian Islands, Alaska",USGS,0
+Earthquake,2011-08-03,-3.413,100.191,14.4,"200 km SW of Sungai Penuh, Indonesia",USGS,0
+Earthquake,2013-05-21,52.31,160.003,35.0,"122 km SE of Petropavlovsk-Kamchatsky, Russia",USGS,0
+Earthquake,2013-11-13,-60.2814,-47.1233,11.07,Scotia Sea,USGS,1
+Earthquake,2012-01-28,-29.505,-176.893,10.0,Kermadec Islands region,USGS,0
+Earthquake,2018-08-06,7.4174,91.7686,26.49,"Nicobar Islands, India region",USGS,0
+Earthquake,2017-01-08,-54.327,-135.8585,10.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2010-08-05,-6.017,150.64,38.6,"75 km SE of Kimbe, Papua New Guinea",USGS,0
+Earthquake,2007-09-04,-22.65,-70.373,34.0,"64 km SSW of Tocopilla, Chile",USGS,0
+Earthquake,2015-09-26,-55.77,-124.931,10.0,southern East Pacific Rise,USGS,0
+Earthquake,2001-07-05,43.029,145.18,91.8,"45 km SW of Nemuro, Japan",USGS,0
+Earthquake,2021-02-27,61.319,-149.9334,46.0,"5 km SSE of Point MacKenzie, Alaska",USGS,0
+Earthquake,2021-11-28,-4.4667,-76.8126,126.0,"43 km NNW of Barranca, Peru",USGS,1
+Earthquake,2016-12-01,-3.368,149.079,19.0,"210 km WSW of Kavieng, Papua New Guinea",USGS,0
+Earthquake,2014-02-09,-15.0592,-71.9232,108.22,"44 km SSE of Cayarani, Peru",USGS,0
+Earthquake,2004-12-28,3.61,94.403,30.0,"200 km WSW of Meulaboh, Indonesia",USGS,0
+Earthquake,2012-03-14,10.535,93.854,58.2,"174 km SE of Port Blair, India",USGS,0
+Earthquake,2021-01-24,-17.3604,-177.1414,363.75,Fiji region,USGS,0
+Earthquake,2010-05-06,-18.058,-70.547,37.0,"21 km S of Las Yaras, Peru",USGS,1
+Earthquake,2001-08-21,-36.813,-179.575,33.0,"295 km NE of Gisborne, New Zealand",USGS,1
+Earthquake,2012-10-13,-11.106,162.831,51.9,"122 km SE of Kirakira, Solomon Islands",USGS,0
+Earthquake,2002-03-17,0.68,122.32,79.4,"84 km W of Gorontalo, Indonesia",USGS,0
+Earthquake,2006-11-11,-62.669,-161.144,10.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2008-04-11,-20.389,168.73,23.9,"110 km SSW of Isangel, Vanuatu",USGS,0
+Earthquake,2024-09-11,-15.257,168.0658,18.766,"101 km ENE of Luganville, Vanuatu",USGS,0
+Earthquake,2020-05-18,27.2664,103.2881,10.0,"42 km W of Zhaotong, China",USGS,0
+Earthquake,2023-05-19,-23.2025,170.9954,10.0,southeast of the Loyalty Islands,USGS,0
+Earthquake,2023-03-07,7.6315,126.2526,10.0,"13 km ENE of Bantacan, Philippines",USGS,0
+Earthquake,2005-09-12,-17.417,-177.32,383.9,Fiji region,USGS,0
+Earthquake,2010-10-06,-17.818,-173.989,85.8,"92 km N of Neiafu, Tonga",USGS,0
+Earthquake,2017-03-07,-6.2615,102.1873,10.0,"272 km S of Bengkulu, Indonesia",USGS,0
+Earthquake,2010-01-14,42.338,142.991,60.1,"51 km E of Shizunai-furukawach?, Japan",USGS,0
+Earthquake,2021-08-26,36.4405,141.2803,26.49,"59 km ESE of Takahagi, Japan",USGS,0
+Earthquake,2003-11-15,-30.542,-179.114,33.0,Kermadec Islands region,USGS,0
+Earthquake,2005-09-22,12.702,40.553,10.0,"110 km E of Maych’ew, Ethiopia",USGS,0
+Earthquake,2022-02-28,44.0361,148.4635,39.62,"140 km SSE of Kuril’sk, Russia",USGS,0
+Earthquake,2019-04-17,3.9697,-82.6124,10.0,south of Panama,USGS,0
+Earthquake,2007-01-23,-45.313,-72.192,32.0,"30 km NNW of Coyhaique, Chile",USGS,0
+Earthquake,2005-09-09,-31.68,-69.136,112.6,"40 km WSW of Villa Basilio Nievas, Argentina",USGS,0
+Earthquake,2008-03-23,-1.148,-14.459,10.0,north of Ascension Island,USGS,0
+Earthquake,2016-02-08,28.3818,-43.7644,10.0,northern Mid-Atlantic Ridge,USGS,0
+Earthquake,2024-03-06,-17.2455,-172.4015,10.0,"206 km SE of Hihifo, Tonga",USGS,0
+Earthquake,2009-11-29,5.345,126.254,35.0,"87 km E of Sarangani, Philippines",USGS,0
+Earthquake,2006-05-08,3.171,97.096,11.1,"110 km NE of Sinabang, Indonesia",USGS,0
+Earthquake,2005-10-08,34.593,73.187,10.0,"17 km N of Baffa, Pakistan",USGS,0
+Earthquake,2020-06-02,37.637,144.5055,10.0,"291 km SE of ?funato, Japan",USGS,0
+Earthquake,2013-04-29,35.702,140.979,35.0,"13 km ESE of Hasaki, Japan",USGS,0
+Earthquake,2023-04-29,-5.1828,153.3941,65.728,"155 km SE of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2020-01-01,-18.8187,-172.0991,10.0,"199 km E of Neiafu, Tonga",USGS,0
+Earthquake,2020-01-10,17.935,-66.883,9.0,"4 km S of Maria Antonia, Puerto Rico",USGS,0
+Earthquake,2017-04-02,-3.0394,101.5421,57.16,"110 km S of Sungai Penuh, Indonesia",USGS,0
+Earthquake,2024-07-11,12.3205,144.1514,10.0,"118 km SSW of Merizo Village, Guam",USGS,0
+Earthquake,2016-02-15,-49.0481,164.4987,10.0,"Auckland Islands, New Zealand region",USGS,0
+Earthquake,2005-01-16,8.662,93.616,30.0,"Nicobar Islands, India region",USGS,0
+Earthquake,2010-08-13,36.877,-32.874,10.0,Azores Islands region,USGS,0
+Earthquake,2016-12-30,-5.4098,153.0461,19.11,"146 km SE of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2018-02-25,24.4411,122.0403,10.0,"45 km SE of Yilan, Taiwan",USGS,0
+Earthquake,2022-04-20,4.0869,126.6063,42.06,"193 km SE of Sarangani, Philippines",USGS,0
+Earthquake,2015-09-13,0.0422,123.4494,143.0,"69 km SE of Gorontalo, Indonesia",USGS,0
+Earthquake,2022-01-21,60.3163,-152.3603,115.3,"48 km NW of Ninilchik, Alaska",USGS,0
+Earthquake,2006-07-17,-9.42,108.319,21.0,"220 km SSW of Sidareja, Indonesia",USGS,1
+Earthquake,2016-03-27,14.9599,-94.6539,4.69,"140 km S of San Francisco del Mar Viejo, Mexico",USGS,0
+Earthquake,2021-08-22,-60.2845,-24.8743,6.0,South Sandwich Islands region,USGS,1
+Earthquake,2010-12-12,-28.098,-177.106,35.0,Kermadec Islands region,USGS,0
+Earthquake,2022-08-19,-20.5227,-11.7158,10.0,southern Mid-Atlantic Ridge,USGS,0
+Earthquake,2023-12-19,-22.7837,172.3996,10.0,southeast of the Loyalty Islands,USGS,0
+Earthquake,2014-09-16,-22.173,-179.56,587.42,south of the Fiji Islands,USGS,0
+Earthquake,2009-07-21,-6.51,155.01,40.5,"56 km WSW of Panguna, Papua New Guinea",USGS,0
+Earthquake,2001-09-30,-18.419,168.121,33.0,"78 km SSW of Port-Vila, Vanuatu",USGS,1
+Earthquake,2001-09-12,27.692,141.907,33.0,"Bonin Islands, Japan region",USGS,0
+Earthquake,2011-03-11,36.247,141.856,35.0,"108 km ENE of Hasaki, Japan",USGS,0
+Earthquake,2015-11-02,32.0869,69.5562,44.73,"23 km S of Wana, Pakistan",USGS,0
+Earthquake,2019-01-12,-26.8175,-175.8455,10.0,south of Tonga,USGS,0
+Earthquake,2004-05-29,36.634,129.928,29.2,"78 km NE of Heunghae, South Korea",USGS,0
+Earthquake,2014-10-26,-5.3877,150.4768,40.56,"41 km ENE of Kimbe, Papua New Guinea",USGS,0
+Earthquake,2008-04-02,-7.046,129.203,180.7,"292 km NE of Lospalos, Timor Leste",USGS,0
+Earthquake,2005-03-30,-53.61,140.817,10.0,west of Macquarie Island,USGS,0
+Earthquake,2014-12-16,31.1098,141.7797,10.0,"Izu Islands, Japan region",USGS,0
+Earthquake,2008-03-09,-58.065,-24.909,42.8,South Sandwich Islands region,USGS,0
+Earthquake,2012-12-11,37.633,143.833,35.0,"238 km ESE of Ishinomaki, Japan",USGS,0
+Earthquake,2022-09-26,53.863,-35.2512,10.0,Reykjanes Ridge,USGS,0
+Earthquake,2023-12-28,8.5588,126.4999,51.88,"27 km NE of Hinatuan, Philippines",USGS,0
+Earthquake,2003-04-28,12.612,144.019,25.3,"101 km SW of Merizo Village, Guam",USGS,0
+Earthquake,2005-02-05,8.061,94.051,17.2,"277 km NNW of Sabang, Indonesia",USGS,0
+Earthquake,2018-10-03,-10.4304,120.133,16.63,"86 km S of Waingapu, Indonesia",USGS,0
+Earthquake,2002-12-12,-57.97,-25.187,33.0,South Sandwich Islands region,USGS,0
+Earthquake,2015-05-17,-60.5228,-20.8594,10.21,east of the South Sandwich Islands,USGS,0
+Earthquake,2010-05-27,9.779,125.621,146.4,"4 km S of Talisay, Philippines",USGS,0
+Earthquake,2009-04-21,44.516,148.065,64.6,"80 km S of Kuril’sk, Russia",USGS,0
+Earthquake,2010-05-18,-7.845,107.22,34.2,"Java, Indonesia",USGS,0
+Earthquake,2001-02-22,-28.174,-177.049,33.0,Kermadec Islands region,USGS,0
+Earthquake,2018-04-25,70.8587,-6.3131,10.0,"88 km E of Olonkinbyen, Svalbard and Jan Mayen",USGS,0
+Earthquake,2009-12-03,-2.71,68.035,10.0,Carlsberg Ridge,USGS,0
+Earthquake,2006-05-02,-27.45,-71.212,21.0,"87 km W of Copiapó, Chile",USGS,0
+Earthquake,2018-04-18,-3.6625,131.3943,17.69,"264 km NW of Tual, Indonesia",USGS,0
+Earthquake,2018-12-05,-21.9199,169.7976,10.0,"202 km ESE of Tadine, New Caledonia",USGS,0
+Earthquake,2007-01-09,-56.305,-142.296,10.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2021-05-12,51.8941,176.2155,48.03,"231 km ESE of Attu Station, Alaska",USGS,0
+Earthquake,2005-10-27,30.873,138.468,382.2,"Izu Islands, Japan region",USGS,0
+Earthquake,2021-05-12,-17.8874,168.6144,141.57,"35 km ESE of Port-Vila, Vanuatu",USGS,0
+Earthquake,2022-01-07,37.7592,101.1086,10.0,"125 km SW of Jinchang, China",USGS,0
+Earthquake,2011-03-20,35.284,140.988,27.3,"51 km SSE of Hasaki, Japan",USGS,0
+Earthquake,2007-10-01,-49.263,163.659,10.0,"Auckland Islands, New Zealand region",USGS,0
+Earthquake,2011-09-09,49.535,-126.893,22.0,"66 km SW of Vernon, Canada",USGS,1
+Earthquake,2007-03-01,26.537,-44.581,10.0,northern Mid-Atlantic Ridge,USGS,0
+Earthquake,2013-06-13,-9.997,107.299,6.3,"south of Java, Indonesia",USGS,0
+Earthquake,2023-11-08,-5.4786,130.2365,10.0,"278 km SSE of Amahai, Indonesia",USGS,0
+Earthquake,2023-05-15,-22.7606,-66.4159,237.07,"73 km W of Abra Pampa, Argentina",USGS,0
+Earthquake,2022-04-26,-4.0434,142.6934,125.08,"23 km NW of Ambunti, Papua New Guinea",USGS,0
+Earthquake,2018-04-17,-55.1466,-28.483,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2015-02-19,-16.4536,168.109,10.0,"83 km ESE of Lakatoro, Vanuatu",USGS,0
+Earthquake,2015-01-03,44.5074,-114.112,8.5,"9 km E of Challis, Idaho",USGS,0
+Earthquake,2011-11-01,35.941,141.642,20.5,"76 km ENE of Hasaki, Japan",USGS,0
+Earthquake,2005-08-04,-49.603,125.951,10.0,western Indian-Antarctic Ridge,USGS,0
+Earthquake,2015-09-17,-29.7643,-72.086,10.0,"75 km WNW of Coquimbo, Chile",USGS,0
+Earthquake,2018-08-20,-8.3006,116.6994,6.18,"22 km N of Labuan Lombok, Indonesia",USGS,0
+Earthquake,2014-03-17,-19.9635,-70.8478,10.0,"78 km WNW of Iquique, Chile",USGS,0
+Earthquake,2011-03-11,39.283,143.512,10.0,"136 km E of Yamada, Japan",USGS,0
+Earthquake,2017-11-04,-21.5666,168.7086,7.77,"85 km E of Tadine, New Caledonia",USGS,0
+Earthquake,2021-08-12,-59.8633,-26.357,33.33,South Sandwich Islands region,USGS,0
+Earthquake,2008-05-06,53.248,-35.231,10.0,Reykjanes Ridge,USGS,0
+Earthquake,2006-08-20,8.505,-102.611,10.0,northern East Pacific Rise,USGS,0
+Earthquake,2024-05-22,-17.2765,-172.0009,10.0,"241 km SE of Hihifo, Tonga",USGS,0
+Earthquake,2019-02-02,35.5563,141.106,32.83,"31 km SE of Hasaki, Japan",USGS,0
+Earthquake,2013-12-02,-21.2849,170.3154,110.0,"221 km SSE of Isangel, Vanuatu",USGS,0
+Earthquake,2012-08-04,4.857,96.296,36.5,"39 km S of Reuleuet, Indonesia",USGS,0
+Earthquake,2017-02-15,-7.5161,107.3878,77.33,"35 km S of Banjar, Indonesia",USGS,0
+Earthquake,2019-03-11,12.1249,143.8938,10.0,"151 km SSW of Merizo Village, Guam",USGS,0
+Earthquake,2008-12-20,-31.054,-177.791,38.9,Kermadec Islands region,USGS,0
+Earthquake,2005-06-15,-57.992,-24.844,26.4,South Sandwich Islands region,USGS,0
+Earthquake,2020-05-22,34.4832,25.8869,10.0,"60 km SSE of Ierápetra, Greece",USGS,0
+Earthquake,2020-07-19,30.412,94.8613,10.0,"213 km NNE of Shi Yomi, India",USGS,0
+Earthquake,2014-09-29,64.5075,-17.315,10.0,"105 km WNW of Höfn, Iceland",USGS,0
+Earthquake,2019-04-02,51.896,178.1044,10.0,"Rat Islands, Aleutian Islands, Alaska",USGS,0
+Earthquake,2025-11-09,-55.4099,-128.4853,10.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2010-01-24,16.029,-60.925,64.5,"34 km SSE of Beauséjour, Guadeloupe",USGS,0
+Earthquake,2004-02-09,24.814,-112.51,10.0,"41 km W of Puerto San Carlos, Mexico",USGS,0
+Earthquake,2022-01-01,-36.1658,-100.538,10.0,southeast of Easter Island,USGS,0
+Earthquake,2000-12-20,-22.82,-66.355,222.6,"68 km W of Abra Pampa, Argentina",USGS,0
+Earthquake,2017-07-21,4.7468,94.5252,40.48,"125 km SW of Banda Aceh, Indonesia",USGS,0
+Earthquake,2017-05-06,52.1121,-170.5434,31.66,"146 km SW of Nikolski, Alaska",USGS,0
+Earthquake,2009-03-15,2.429,-95.124,10.0,"Galapagos Islands, Ecuador region",USGS,0
+Earthquake,2018-08-29,-22.403,170.3335,10.0,"270 km ESE of Tadine, New Caledonia",USGS,0
+Earthquake,2001-10-21,-4.68,139.44,33.0,"259 km NW of Kiunga, Papua New Guinea",USGS,0
+Earthquake,2010-05-19,-5.083,-77.541,132.0,"83 km NNE of Yambrasbamba, Peru",USGS,1
+Earthquake,2013-07-31,51.112,178.173,19.2,"Rat Islands, Aleutian Islands, Alaska",USGS,0
+Earthquake,2012-08-16,-0.269,-18.759,10.0,central Mid-Atlantic Ridge,USGS,0
+Earthquake,2022-06-03,-23.9749,-179.8794,512.2,south of the Fiji Islands,USGS,0
+Earthquake,2004-10-02,28.07,128.081,58.9,"Ryukyu Islands, Japan",USGS,0
+Earthquake,2010-01-30,2.356,126.723,16.3,"159 km WNW of Tobelo, Indonesia",USGS,0
+Earthquake,2021-11-14,24.5579,121.984,71.34,"32 km SE of Yilan, Taiwan",USGS,0
+Earthquake,2010-10-28,-5.51,153.744,33.0,"208 km SE of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2011-11-20,59.304,-30.471,10.0,Reykjanes Ridge,USGS,0
+Earthquake,2015-02-22,-29.0463,-3.9058,10.0,South Atlantic Ocean,USGS,0
+Earthquake,2016-05-14,-6.8583,101.795,10.0,"southwest of Sumatra, Indonesia",USGS,0
+Earthquake,2011-12-23,-43.476,172.921,2.5,"24 km ENE of Christchurch, New Zealand",USGS,0
+Earthquake,2005-01-03,10.576,92.22,25.1,"133 km SSW of Port Blair, India",USGS,0
+Earthquake,2018-10-10,55.6399,-158.8948,48.3,"34 km SSE of Perryville, Alaska",USGS,0
+Earthquake,2010-01-12,18.463,-72.626,10.0,"5 km S of Léogâne, Haiti",USGS,0
+Earthquake,2016-02-20,-3.0377,129.4157,10.0,"64 km ENE of Amahai, Indonesia",USGS,0
+Earthquake,2019-04-26,9.8128,126.7177,10.0,"66 km E of Union, Philippines",USGS,0
+Earthquake,2024-03-21,-2.008,137.4266,12.374,"175 km ESE of Biak, Indonesia",USGS,0
+Earthquake,2002-10-06,58.417,-31.705,10.0,Reykjanes Ridge,USGS,0
+Earthquake,2025-07-25,2.0241,126.873,80.0,"130 km WNW of Tobelo, Indonesia",USGS,0
+Earthquake,2005-01-30,8.008,94.249,30.0,"262 km NNW of Sabang, Indonesia",USGS,0
+Earthquake,2021-10-29,-29.3877,-176.1219,10.0,Kermadec Islands region,USGS,0
+Earthquake,2000-04-13,15.985,-95.249,54.5,"17 km ESE of El Carrizal, Mexico",USGS,0
+Earthquake,2013-12-21,-11.0301,164.7141,19.88,"123 km WSW of Lata, Solomon Islands",USGS,0
+Earthquake,2020-07-22,33.1438,86.8637,10.0,western Xizang,USGS,1
+Earthquake,2010-01-18,-8.952,158.1,19.4,"167 km SE of Gizo, Solomon Islands",USGS,0
+Earthquake,2018-11-06,42.533,43.5963,10.0,"13 km ESE of Oni, Georgia",USGS,0
+Earthquake,2023-05-14,11.4596,141.611,10.0,"222 km NNE of Fais, Micronesia",USGS,0
+Earthquake,2007-11-24,-23.77,-69.012,92.1,"126 km SW of San Pedro de Atacama, Chile",USGS,0
+Earthquake,2008-10-15,-15.004,-71.991,137.3,"36 km S of Cayarani, Peru",USGS,0
+Earthquake,2001-06-19,23.089,121.224,33.0,"78 km E of Yujing, Taiwan",USGS,0
+Earthquake,2023-08-07,-55.7487,-27.0444,13.0,South Sandwich Islands region,USGS,0
+Earthquake,2013-02-08,-10.94,165.886,10.0,"25 km SSE of Lata, Solomon Islands",USGS,0
+Earthquake,2018-03-23,-15.966,-177.5939,10.0,"191 km SSE of Alo, Wallis and Futuna",USGS,0
+Earthquake,2011-01-03,-41.164,-90.871,10.0,southeast of Easter Island,USGS,0
+Earthquake,2005-11-27,1.16,97.266,24.4,"137 km SSW of Singkil, Indonesia",USGS,0
+Earthquake,2004-12-27,4.819,94.261,38.0,"143 km SW of Banda Aceh, Indonesia",USGS,0
+Earthquake,2014-11-24,64.6727,-17.557,10.0,"115 km SSE of Akureyri, Iceland",USGS,0
+Earthquake,2024-03-27,-8.7403,-72.7126,10.0,"23 km NNE of Marechal Thaumaturgo, Brazil",USGS,0
+Earthquake,2010-05-27,-13.884,166.73,35.0,"88 km W of Sola, Vanuatu",USGS,0
+Earthquake,2009-01-28,13.727,92.819,35.0,"224 km N of Bamboo Flat, India",USGS,0
+Earthquake,2018-10-19,-47.3524,-12.1365,10.0,southern Mid-Atlantic Ridge,USGS,0
+Earthquake,2020-09-04,-52.4722,13.4697,10.0,southwest of Africa,USGS,0
+Earthquake,2015-02-06,28.3512,104.8941,10.0,"20 km ESE of Xunchang, China",USGS,0
+Earthquake,2021-01-16,-19.9684,-173.2456,3.36,"117 km E of Pangai, Tonga",USGS,0
+Earthquake,2007-04-21,-23.415,170.923,29.1,southeast of the Loyalty Islands,USGS,0
+Earthquake,2020-03-12,37.2745,136.878,10.0,"26 km NNW of Nanao, Japan",USGS,0
+Earthquake,2016-05-15,63.0765,-150.9465,131.5,"64 km SE of Denali National Park, Alaska",USGS,0
+Earthquake,2013-02-06,-10.967,165.206,10.0,"69 km WSW of Lata, Solomon Islands",USGS,0
+Earthquake,2023-05-21,-19.376,-173.3476,16.0,"104 km SE of Neiafu, Tonga",USGS,0
+Earthquake,2008-08-28,50.165,-129.628,12.0,"186 km WSW of Port McNeill, Canada",USGS,0
+Earthquake,2018-07-26,-56.8354,-26.2651,35.0,South Sandwich Islands region,USGS,0
+Earthquake,2005-03-07,81.523,120.153,10.0,east of Severnaya Zemlya,USGS,0
+Earthquake,2006-10-25,13.114,-87.451,15.9,"12 km SW of Monjarás, Honduras",USGS,0
+Earthquake,2024-10-17,-27.8826,-176.2657,12.0,Kermadec Islands region,USGS,0
+Earthquake,2020-03-15,-10.4691,118.2924,10.0,"214 km S of Dompu, Indonesia",USGS,0
+Earthquake,2010-10-12,-4.915,133.71,13.0,"132 km NE of Tual, Indonesia",USGS,0
+Earthquake,2004-11-12,-7.274,128.378,10.0,"205 km NE of Lospalos, Timor Leste",USGS,0
+Earthquake,2023-03-31,-50.0022,114.0648,10.0,western Indian-Antarctic Ridge,USGS,0
+Earthquake,2005-03-21,-1.056,-24.585,21.9,central Mid-Atlantic Ridge,USGS,0
+Earthquake,2003-10-23,51.4,176.687,33.0,"288 km SE of Attu Station, Alaska",USGS,0
+Earthquake,2014-06-29,-55.4519,-28.3199,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2019-05-19,-21.6619,169.7779,20.0,"196 km E of Tadine, New Caledonia",USGS,1
+Earthquake,2003-02-14,-54.471,5.742,10.0,Bouvet Island region,USGS,0
+Earthquake,2023-10-11,-20.4851,-174.0596,25.013,"80 km SSE of Pangai, Tonga",USGS,0
+Earthquake,2010-08-13,36.969,-32.778,10.0,Azores Islands region,USGS,0
+Earthquake,2000-06-05,-4.463,102.135,33.0,"74 km S of Bengkulu, Indonesia",USGS,0
+Earthquake,2000-09-26,1.123,127.442,142.0,"Halmahera, Indonesia",USGS,0
+Earthquake,2013-10-19,26.0913,-110.3209,9.45,"98 km SW of Etchoropo, Mexico",USGS,1
+Earthquake,2013-06-13,26.533,128.886,20.0,"90 km E of Nago, Japan",USGS,0
+Earthquake,2014-06-23,-30.1288,-177.2718,26.38,"Kermadec Islands, New Zealand",USGS,0
+Earthquake,2000-08-28,-42.672,-83.46,10.0,West Chile Rise,USGS,0
+Earthquake,2014-08-16,-14.8973,167.3248,131.07,"31 km ENE of Port-Olry, Vanuatu",USGS,0
+Earthquake,2001-12-03,-19.266,-68.924,102.2,"163 km SSW of Curahuara de Carangas, Bolivia",USGS,0
+Earthquake,2012-07-12,-2.885,129.321,10.4,"67 km NE of Amahai, Indonesia",USGS,0
+Earthquake,2019-03-31,-1.9446,-80.8101,18.0,"31 km N of Santa Elena, Ecuador",USGS,1
+Earthquake,2021-07-11,51.7722,-175.9319,58.36,"49 km ESE of Adak, Alaska",USGS,0
+Earthquake,2024-04-04,8.039,-38.114,10.0,central Mid-Atlantic Ridge,USGS,0
+Earthquake,2006-12-12,-41.446,-86.205,10.0,West Chile Rise,USGS,0
+Earthquake,2001-06-14,51.192,-179.85,33.0,"235 km WSW of Adak, Alaska",USGS,0
+Earthquake,2008-09-11,41.678,144.079,29.6,"146 km S of Kushiro, Japan",USGS,0
+Earthquake,2023-02-03,37.0695,96.9059,10.0,"northern Qinghai, China",USGS,0
+Earthquake,2009-09-30,-16.978,-172.873,10.0,"150 km SE of Hihifo, Tonga",USGS,0
+Earthquake,2018-09-15,-55.0614,-129.0396,10.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2004-01-03,47.013,153.945,44.2,Kuril Islands,USGS,0
+Earthquake,2014-12-17,-7.2726,155.001,10.0,"118 km SSW of Panguna, Papua New Guinea",USGS,0
+Earthquake,2021-12-09,29.4132,129.3846,7.0,"116 km N of Naze, Japan",USGS,1
+Earthquake,2007-01-21,1.336,127.207,10.0,"63 km NNW of Ternate, Indonesia",USGS,0
+Earthquake,2025-10-26,-36.9573,-96.0045,10.0,West Chile Rise,USGS,0
+Earthquake,2018-10-25,-16.553,-174.3112,200.4,"86 km SW of Hihifo, Tonga",USGS,0
+Earthquake,2021-08-29,-59.2435,-23.6678,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2016-02-05,22.9375,120.6014,23.0,"25 km SE of Yujing, Taiwan",USGS,1
+Earthquake,2022-06-08,-2.7693,118.5386,23.58,"39 km WSW of Mamuju, Indonesia",USGS,0
+Earthquake,2016-02-06,-16.9899,174.9389,10.0,"275 km WNW of Lautoka, Fiji",USGS,0
+Earthquake,2013-12-27,40.3041,142.2498,62.25,"67 km ESE of Hachinohe, Japan",USGS,0
+Earthquake,2018-01-16,-4.6667,144.0598,85.17,"66 km S of Angoram, Papua New Guinea",USGS,0
+Earthquake,2025-03-31,0.7628,-29.6505,10.0,central Mid-Atlantic Ridge,USGS,0
+Earthquake,2009-10-08,-11.898,165.96,35.0,"130 km S of Lata, Solomon Islands",USGS,0
+Earthquake,2012-02-27,25.557,127.096,42.2,"85 km SW of Itoman, Japan",USGS,0
+Earthquake,2010-11-30,-57.084,-140.458,10.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2023-03-04,-32.2515,-178.7338,39.444,south of the Kermadec Islands,USGS,0
+Earthquake,2010-03-05,1.891,127.504,107.4,"59 km WNW of Tobelo, Indonesia",USGS,0
+Earthquake,2010-03-22,-15.23,167.548,114.8,"52 km NE of Luganville, Vanuatu",USGS,0
+Earthquake,2023-01-03,-57.7446,-25.1755,31.656,South Sandwich Islands region,USGS,0
+Earthquake,2022-04-05,1.9361,126.8713,36.0,"128 km W of Tobelo, Indonesia",USGS,0
+Earthquake,2010-04-06,2.346,97.17,35.0,"69 km W of Singkil, Indonesia",USGS,0
+Earthquake,2004-06-30,-22.315,171.374,57.2,southeast of the Loyalty Islands,USGS,0
+Earthquake,2025-07-30,51.4833,159.9705,10.0,"193 km SSE of Vilyuchinsk, Russia",USGS,0
+Earthquake,2008-11-28,22.482,-45.016,10.0,northern Mid-Atlantic Ridge,USGS,0
+Earthquake,2018-08-29,-21.9185,169.9995,10.0,"223 km E of Tadine, New Caledonia",USGS,0
+Earthquake,2013-07-18,-8.315,117.165,33.5,"34 km NW of Sumbawa Besar, Indonesia",USGS,0
+Earthquake,2012-07-20,3.395,125.808,101.1,"225 km S of Sarangani, Philippines",USGS,0
+Earthquake,2025-11-09,39.3574,143.6209,15.387,"144 km E of Yamada, Japan",USGS,0
+Earthquake,2012-09-04,-21.956,-175.067,35.0,"70 km S of ‘Ohonua, Tonga",USGS,0
+Earthquake,2023-04-29,-52.507,140.3652,10.0,west of Macquarie Island,USGS,0
+Earthquake,2013-08-17,-34.8853,54.0927,10.0,Southwest Indian Ridge,USGS,1
+Earthquake,2001-03-23,-18.943,-174.063,33.0,"33 km SSW of Neiafu, Tonga",USGS,0
+Earthquake,2014-08-04,0.8208,146.2356,10.0,Federated States of Micronesia region,USGS,0
+Earthquake,2005-01-01,9.026,92.626,30.0,"292 km S of Port Blair, India",USGS,0
+Earthquake,2023-02-11,-35.3616,-15.5697,10.0,Tristan da Cunha region,USGS,0
+Earthquake,2020-04-04,54.8277,166.1783,14.0,"280 km SE of Ust’-Kamchatsk Staryy, Russia",USGS,0
+Earthquake,2021-09-22,-29.8221,-177.37,10.0,"Kermadec Islands, New Zealand",USGS,0
+Earthquake,2007-07-21,-1.591,-78.027,166.9,"12 km SSW of Puyo, Ecuador",USGS,0
+Earthquake,2023-12-02,8.3198,127.0017,61.655,"65 km ENE of Barcelona, Philippines",USGS,0
+Earthquake,2025-08-27,-55.3038,-26.8856,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2013-10-16,9.6439,123.7571,20.79,"3 km WNW of San Agustin, Philippines",USGS,0
+Earthquake,2017-05-05,13.7401,92.548,19.13,"226 km N of Bamboo Flat, India",USGS,0
+Earthquake,2009-01-19,-0.196,132.836,35.0,"155 km WNW of Manokwari, Indonesia",USGS,0
+Earthquake,2021-08-27,-60.3613,-26.3126,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2024-04-03,24.077,121.5601,20.884,"11 km NNW of Hualien City, Taiwan",USGS,0
+Earthquake,2022-09-23,0.1761,123.5657,168.865,"68 km SE of Gorontalo, Indonesia",USGS,0
+Earthquake,2015-09-29,-2.5588,140.1977,19.0,"near the north coast of Papua, Indonesia",USGS,0
+Earthquake,2008-12-13,-14.103,166.572,14.0,"108 km WSW of Sola, Vanuatu",USGS,0
+Earthquake,2009-11-03,26.262,141.016,109.0,"Bonin Islands, Japan region",USGS,0
+Earthquake,2011-09-09,-17.211,-174.576,126.0,"162 km SSW of Hihifo, Tonga",USGS,0
+Earthquake,2020-12-03,37.9458,41.697,10.0,"2 km NNE of Kurtalan, Turkey",USGS,0
+Earthquake,2018-03-17,-47.6789,-13.509,10.0,southern Mid-Atlantic Ridge,USGS,0
+Earthquake,2011-05-10,-20.129,168.257,10.0,"125 km WSW of Isangel, Vanuatu",USGS,0
+Earthquake,2004-11-26,-3.5,135.343,10.0,"23 km SW of Nabire, Indonesia",USGS,0
+Earthquake,2009-01-27,-17.837,-178.677,601.0,"214 km E of Levuka, Fiji",USGS,0
+Earthquake,2019-11-27,3.603,64.173,10.0,Carlsberg Ridge,USGS,0
+Earthquake,2010-03-14,-38.502,-73.653,23.2,"48 km WNW of Carahue, Chile",USGS,0
+Earthquake,2012-11-11,-10.755,164.828,25.9,"106 km W of Lata, Solomon Islands",USGS,0
+Earthquake,2007-08-10,51.256,-179.827,58.6,"231 km WSW of Adak, Alaska",USGS,0
+Earthquake,2010-07-11,-38.965,177.353,37.7,"7 km N of Wairoa, New Zealand",USGS,0
+Earthquake,2023-04-27,-35.6137,-71.3001,85.853,"Maule, Chile",USGS,0
+Earthquake,2003-01-23,-8.807,118.524,33.0,"30 km SSE of Dompu, Indonesia",USGS,0
+Earthquake,2015-11-04,43.3348,146.1094,95.65,"43 km E of Nemuro, Japan",USGS,0
+Earthquake,2003-09-27,42.74,144.254,52.2,"27 km SSW of Kushiro, Japan",USGS,0
+Earthquake,2011-03-11,39.599,143.056,38.6,"95 km E of Miyako, Japan",USGS,0
+Earthquake,2010-11-12,54.65,161.361,52.6,"152 km SE of Atlasovo, Russia",USGS,0
+Earthquake,2001-10-12,-24.171,-66.831,201.2,"52 km W of San Antonio de los Cobres, Argentina",USGS,0
+Earthquake,2012-02-07,76.848,7.323,10.0,"252 km SW of Longyearbyen, Svalbard and Jan Mayen",USGS,0
+Earthquake,2011-09-05,36.51,142.622,10.0,"166 km ESE of Iwaki, Japan",USGS,0
+Earthquake,2021-03-20,16.6386,-98.8402,10.0,"6 km NNW of Marquelia, Mexico",USGS,0
+Earthquake,2003-01-05,-6.607,105.645,33.0,"32 km SW of Labuan, Indonesia",USGS,0
+Earthquake,2011-03-12,39.049,142.279,27.0,"43 km SE of Kamaishi, Japan",USGS,0
+Earthquake,2005-11-19,48.792,-128.598,10.0,"201 km WSW of Tofino, Canada",USGS,0
+Earthquake,2017-09-02,-6.0389,104.9644,75.14,"75 km SSW of Bandar Lampung, Indonesia",USGS,0
+Earthquake,2023-01-12,-23.2748,-174.8658,10.0,"215 km S of ‘Ohonua, Tonga",USGS,0
+Earthquake,2019-03-02,-33.6774,-72.5954,10.42,"92 km W of San Antonio, Chile",USGS,0
+Earthquake,2025-08-22,-17.6286,168.6842,213.944,"41 km ENE of Port-Vila, Vanuatu",USGS,0
+Earthquake,2004-06-22,-19.108,-175.747,231.0,"165 km WNW of Pangai, Tonga",USGS,0
+Earthquake,2011-01-10,23.083,143.166,86.6,"Volcano Islands, Japan region",USGS,0
+Earthquake,2009-10-08,-12.267,165.447,35.0,"174 km SSW of Lata, Solomon Islands",USGS,0
+Earthquake,2006-05-04,-20.669,-174.247,17.5,"95 km S of Pangai, Tonga",USGS,0
+Earthquake,2011-05-19,-20.4,168.393,10.0,"130 km ENE of Wé, New Caledonia",USGS,0
+Earthquake,2025-07-26,52.3235,160.747,10.0,"165 km ESE of Petropavlovsk-Kamchatsky, Russia",USGS,0
+Earthquake,2011-03-11,36.588,141.1,22.7,"37 km ESE of Takahagi, Japan",USGS,0
+Earthquake,2003-01-07,-4.244,152.787,33.0,"58 km E of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2023-12-05,8.9528,126.5493,40.403,"27 km ENE of Aras-asan, Philippines",USGS,0
+Earthquake,2006-05-14,-6.974,129.655,66.7,Banda Sea,USGS,0
+Earthquake,2017-04-08,13.7701,120.9354,14.26,"1 km NNW of Mabini, Philippines",USGS,0
+Earthquake,2024-04-15,29.4397,131.7622,7.556,"147 km SE of Koshima, Japan",USGS,0
+Earthquake,2019-09-14,-37.2946,-17.229,10.0,southern Mid-Atlantic Ridge,USGS,0
+Earthquake,2024-02-26,12.9067,-87.2746,184.618,"12 km WNW of Puerto Morazán, Nicaragua",USGS,0
+Earthquake,2023-10-04,29.8675,140.0623,10.0,"Izu Islands, Japan region",USGS,0
+Earthquake,2019-02-18,-0.8942,127.2917,18.28,"182 km S of Sofifi, Indonesia",USGS,0
+Earthquake,2009-07-02,37.469,71.782,124.7,"20 km E of Khorugh, Tajikistan",USGS,0
+Earthquake,2010-12-29,-23.166,-179.941,543.0,south of the Fiji Islands,USGS,0
+Earthquake,2025-07-31,51.7884,160.0855,10.0,"171 km SE of Vilyuchinsk, Russia",USGS,0
+Earthquake,2009-06-16,47.222,145.543,389.4,"208 km E of Dolinsk, Russia",USGS,0
+Earthquake,2025-08-03,50.3111,159.0682,10.0,"212 km ESE of Severo-Kuril’sk, Russia",USGS,0
+Earthquake,2004-08-13,-4.435,129.39,190.2,"131 km SSE of Amahai, Indonesia",USGS,0
+Earthquake,2006-12-25,-56.86,-24.212,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2007-04-26,-18.039,172.875,10.0,Vanuatu region,USGS,0
+Earthquake,2006-04-19,-45.262,97.071,21.5,southeast Indian Ridge,USGS,0
+Earthquake,2010-07-18,24.131,122.47,26.9,"65 km SW of Yonakuni, Japan",USGS,0
+Earthquake,2008-02-02,-4.579,152.954,58.3,"80 km ESE of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2020-03-27,28.2443,57.1201,10.0,"118 km SSE of K?h Sef?d, Iran",USGS,0
+Earthquake,2023-12-03,-58.7806,-25.2882,33.827,South Sandwich Islands region,USGS,0
+Earthquake,2018-10-11,49.2413,156.2354,17.03,"159 km S of Severo-Kuril’sk, Russia",USGS,0
+Earthquake,2022-03-11,45.1543,153.4905,10.0,east of the Kuril Islands,USGS,0
+Earthquake,2017-01-24,12.0891,146.2566,10.0,"209 km SE of Inarajan Village, Guam",USGS,0
+Earthquake,2018-10-29,8.538,126.7605,10.0,"50 km ENE of Hinatuan, Philippines",USGS,0
+Earthquake,2023-08-29,9.9367,-78.4562,33.948,"56 km NNE of Narganá, Panama",USGS,0
+Earthquake,2011-12-07,-49.073,127.505,10.0,western Indian-Antarctic Ridge,USGS,0
+Earthquake,2007-02-05,49.431,155.413,10.0,"147 km SSW of Severo-Kuril’sk, Russia",USGS,0
+Earthquake,2007-01-30,-54.74,146.298,11.0,west of Macquarie Island,USGS,1
+Earthquake,2010-10-27,13.237,145.438,31.0,"68 km ESE of Yigo Village, Guam",USGS,0
+Earthquake,2011-03-11,37.491,143.05,6.6,"181 km E of Namie, Japan",USGS,0
+Earthquake,2018-05-12,38.4847,141.9287,43.99,"55 km E of Ishinomaki, Japan",USGS,0
+Earthquake,2014-03-15,-14.0848,-76.3113,20.0,"24 km SSW of Paracas, Peru",USGS,1
+Earthquake,2025-06-23,29.3425,129.3401,10.0,"102 km NNW of Tatsugō, Japan",USGS,0
+Earthquake,2004-02-08,-23.639,-177.354,189.3,south of the Fiji Islands,USGS,0
+Earthquake,2019-05-04,12.3713,120.9321,10.0,"8 km SW of San Agustin, Philippines",USGS,0
+Earthquake,2000-12-25,-21.264,-179.124,644.8,Fiji region,USGS,0
+Earthquake,2007-10-05,-13.612,-76.984,26.6,"82 km WNW of Paracas, Peru",USGS,0
+Earthquake,2007-11-20,-4.329,101.263,35.0,"125 km WSW of Bengkulu, Indonesia",USGS,0
+Earthquake,2018-11-29,-8.7025,109.7932,89.24,"98 km SSW of Srandakan, Indonesia",USGS,0
+Earthquake,2008-06-13,-9.517,159.438,26.5,"36 km WNW of Malango, Solomon Islands",USGS,0
+Earthquake,2011-10-06,57.89,-32.492,10.0,Reykjanes Ridge,USGS,0
+Earthquake,2018-11-02,57.2979,-33.0149,10.0,Reykjanes Ridge,USGS,0
+Earthquake,2025-11-03,52.2143,160.2108,29.0,"142 km SE of Petropavlovsk-Kamchatsky, Russia",USGS,1
+Earthquake,2011-10-09,-50.076,-115.958,10.0,southern East Pacific Rise,USGS,0
+Earthquake,2021-03-06,-29.1797,-176.7491,10.0,Kermadec Islands region,USGS,0
+Earthquake,2025-06-29,29.3062,129.3422,10.0,"98 km NNW of Tatsugō, Japan",USGS,0
+Earthquake,2010-01-24,-8.205,129.029,19.0,"226 km E of Lospalos, Timor Leste",USGS,0
+Earthquake,2023-04-23,-59.5662,-26.4452,76.656,South Sandwich Islands region,USGS,0
+Earthquake,2000-11-16,-4.848,153.301,33.0,"127 km ESE of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2021-02-05,-0.2129,124.4494,61.74,"173 km SSW of Tomohon, Indonesia",USGS,0
+Earthquake,2004-11-26,-3.398,135.57,10.0,"8 km ESE of Nabire, Indonesia",USGS,0
+Earthquake,2018-01-06,34.5849,45.7696,10.0,"16 km NNW of Sarpol-e Z?ah?b, Iran",USGS,0
+Earthquake,2005-11-27,26.724,55.793,10.0,"53 km WSW of Qeshm, Iran",USGS,0
+Earthquake,2007-11-28,-31.68,-177.953,49.1,Kermadec Islands region,USGS,0
+Earthquake,2004-10-06,53.504,169.828,30.0,"236 km WNW of Attu Station, Alaska",USGS,0
+Earthquake,2023-01-09,-5.2367,153.3438,16.22,"154 km SE of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2011-03-14,36.576,141.745,26.1,"92 km ESE of Kitaibaraki, Japan",USGS,0
+Earthquake,2017-12-15,-18.0298,-70.1616,94.42,"9 km E of Tacna, Peru",USGS,0
+Earthquake,2000-11-16,-14.564,166.66,33.0,"69 km NW of Port-Olry, Vanuatu",USGS,0
+Earthquake,2017-05-09,25.7369,125.1296,116.83,"104 km N of Hirara, Japan",USGS,0
+Earthquake,2015-04-17,-15.8815,-178.6005,10.0,"181 km SSW of Alo, Wallis and Futuna",USGS,1
+Earthquake,2018-08-22,16.6048,-98.7299,16.92,"3 km SW of Agua Zarca, Mexico",USGS,0
+Earthquake,2007-12-15,-19.46,-175.983,35.0,"175 km WNW of Pangai, Tonga",USGS,0
+Earthquake,2010-07-20,-22.775,171.759,42.5,southeast of the Loyalty Islands,USGS,0
+Earthquake,2021-08-12,-59.8374,-26.4778,35.0,South Sandwich Islands region,USGS,0
+Earthquake,2004-12-26,4.855,95.101,50.8,"80 km SSW of Banda Aceh, Indonesia",USGS,0
+Earthquake,2014-11-21,20.6545,120.0724,4.0,"164 km SSW of Hengchun, Taiwan",USGS,0
+Earthquake,2010-01-18,-12.484,166.293,10.0,"201 km SSE of Lata, Solomon Islands",USGS,0
+Earthquake,2022-08-28,-22.5139,170.9201,10.0,southeast of the Loyalty Islands,USGS,0
+Earthquake,2023-03-24,38.4614,44.8505,11.0,"13 km SW of Khowy, Iran",USGS,0
+Earthquake,2019-12-18,6.7104,125.1864,10.0,"6 km S of Magsaysay, Philippines",USGS,0
+Earthquake,2008-10-05,39.508,73.888,35.0,"137 km SE of Nookat, Kyrgyzstan",USGS,0
+Earthquake,2014-09-02,-11.5502,-112.0034,10.0,central East Pacific Rise,USGS,0
+Earthquake,2017-02-06,-19.0041,176.2745,10.0,"179 km SW of Nadi, Fiji",USGS,0
+Earthquake,2008-03-20,6.192,126.934,45.0,"85 km ESE of Pondaguitan, Philippines",USGS,1
+Earthquake,2014-12-11,-56.8248,-25.2573,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2017-11-04,-15.1585,-173.3848,10.0,"98 km NNE of Hihifo, Tonga",USGS,0
+Earthquake,2002-09-16,66.938,-18.456,10.0,"89 km NNE of Siglufjörður, Iceland",USGS,0
+Earthquake,2022-09-11,41.1898,140.1452,169.073,"45 km NNW of Shimokizukuri, Japan",USGS,0
+Earthquake,2013-03-19,-20.128,66.283,10.0,Mauritius - Reunion region,USGS,0
+Earthquake,2019-04-11,7.6359,94.2502,10.0,"226 km NNW of Sabang, Indonesia",USGS,0
+Earthquake,2008-12-10,-12.337,166.572,51.0,"197 km SSE of Lata, Solomon Islands",USGS,1
+Earthquake,2008-02-03,-56.272,-27.043,99.7,South Sandwich Islands region,USGS,0
+Earthquake,2011-07-22,12.355,-88.185,35.0,"90 km WSW of Jiquilillo, Nicaragua",USGS,0
+Earthquake,2012-09-21,35.3,22.63,16.0,"95 km WSW of Kíssamos, Greece",USGS,0
+Earthquake,2004-08-23,-0.873,127.676,7.6,"178 km S of Sofifi, Indonesia",USGS,0
+Earthquake,2011-11-03,55.534,163.985,36.9,"121 km SE of Ust’-Kamchatsk Staryy, Russia",USGS,0
+Earthquake,2005-07-04,10.251,93.582,36.8,"181 km SSE of Port Blair, India",USGS,0
+Earthquake,2018-01-16,-19.4497,-179.2959,666.76,"211 km SE of Levuka, Fiji",USGS,0
+Earthquake,2004-04-16,-5.214,102.718,44.5,"southern Sumatra, Indonesia",USGS,1
+Earthquake,2008-08-09,-60.648,153.771,10.0,west of Macquarie Island,USGS,1
+Earthquake,2012-06-15,5.719,126.354,41.4,"73 km SSE of Pondaguitan, Philippines",USGS,0
+Earthquake,2011-06-12,-14.335,171.328,611.1,Vanuatu region,USGS,0
+Earthquake,2007-10-31,51.418,-178.38,28.0,"131 km WSW of Adak, Alaska",USGS,1
+Earthquake,2019-12-18,58.5347,-137.6983,2.0,"87 km WNW of Elfin Cove, Alaska",USGS,0
+Earthquake,2017-02-15,3.9156,126.8062,44.56,"221 km SE of Sarangani, Philippines",USGS,0
+Earthquake,2023-10-09,49.095,21.7882,6.462,"15 km SE of Stropkov, Slovakia",USGS,0
+Earthquake,2010-09-30,-5.103,152.583,35.0,"90 km SSE of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2017-11-14,8.8142,-83.9123,10.0,"45 km WSW of Ciudad Cortés, Costa Rica",USGS,0
+Earthquake,2002-06-27,-13.275,167.051,186.7,"85 km NW of Sola, Vanuatu",USGS,1
+Earthquake,2005-12-02,16.233,-98.534,20.0,"15 km SW of Santiago Tepextla, Mexico",USGS,0
+Earthquake,2013-03-15,-26.168,70.728,10.0,Indian Ocean Triple Junction,USGS,0
+Earthquake,2016-11-20,-61.4158,-56.8907,10.0,South Shetland Islands,USGS,0
+Earthquake,2020-10-19,-7.1522,126.6203,370.52,"147 km N of Baukau, Timor Leste",USGS,0
+Earthquake,2015-03-28,-22.2167,-68.6175,112.0,"41 km NE of Calama, Chile",USGS,0
+Earthquake,2021-06-04,42.2881,-126.2778,16.57,"153 km W of Gold Beach, Oregon",USGS,0
+Earthquake,2025-12-24,11.7846,143.3634,12.0,"216 km SW of Merizo Village, Guam",USGS,0
+Earthquake,2020-09-22,12.7999,143.8689,10.0,"100 km WSW of Merizo Village, Guam",USGS,0
+Earthquake,2024-04-22,23.7259,121.5781,8.0,"27 km S of Hualien City, Taiwan",USGS,0
+Earthquake,2008-04-08,12.59,143.788,10.0,"121 km SW of Merizo Village, Guam",USGS,0
+Earthquake,2019-09-29,-35.4534,-73.2386,10.0,"76 km W of Constitución, Chile",USGS,0
+Earthquake,2023-11-14,-32.5772,-179.4576,83.366,south of the Kermadec Islands,USGS,0
+Earthquake,2025-08-17,-6.2054,151.528,10.0,"170 km ESE of Kimbe, Papua New Guinea",USGS,0
+Earthquake,2021-03-26,-50.1552,112.6437,10.0,southeast Indian Ridge,USGS,0
+Earthquake,2023-12-26,-56.3856,-27.2106,125.59,South Sandwich Islands region,USGS,0
+Earthquake,2022-04-19,7.2852,126.9533,19.0,"41 km E of Santiago, Philippines",USGS,1
+Earthquake,2000-08-13,12.053,-82.755,10.0,"36 km ESE of Corn Island, Nicaragua",USGS,0
+Earthquake,2013-11-16,23.5155,143.2122,38.0,"Volcano Islands, Japan region",USGS,0
+Earthquake,2010-08-19,14.03,-91.121,67.7,"9 km SW of La Gomera, Guatemala",USGS,0
+Earthquake,2011-04-20,-62.93,-164.831,10.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2004-09-27,29.773,95.515,13.9,"176 km NE of Shi Yomi, India",USGS,0
+Earthquake,2020-05-13,-20.7929,-176.5834,243.29,"147 km WNW of Haveluloto, Tonga",USGS,0
+Earthquake,2021-09-08,-38.1899,-93.8455,10.0,West Chile Rise,USGS,0
+Earthquake,2018-07-10,-31.5924,58.1519,10.0,Southwest Indian Ridge,USGS,0
+Earthquake,2005-12-03,-5.953,150.494,59.1,"59 km SE of Kimbe, Papua New Guinea",USGS,0
+Earthquake,2018-07-23,-0.2994,-19.252,10.0,central Mid-Atlantic Ridge,USGS,1
+Earthquake,2006-04-12,37.61,20.95,19.0,"16 km SE of Lithakiá, Greece",USGS,0
+Earthquake,2024-08-02,7.9719,126.906,45.789,"50 km NE of Kinablangan, Philippines",USGS,0
+Earthquake,2015-03-19,-3.3029,-80.5664,61.04,"31 km NNW of Tumbes, Peru",USGS,0
+Earthquake,2018-04-23,-3.181,139.7937,82.9,"113 km SW of Abepura, Indonesia",USGS,0
+Earthquake,2006-11-23,19.8871667,-155.976,36.456,"17 km WSW of Puako, Hawaii",USGS,0
+Earthquake,2008-03-20,35.319,81.601,10.0,"248 km SE of Hotan, China",USGS,0
+Earthquake,2009-02-14,-5.417,151.72,48.5,"133 km SSW of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2004-06-02,-30.481,-177.875,28.0,"Kermadec Islands, New Zealand",USGS,0
+Earthquake,2018-01-23,56.1003,-149.7526,16.91,"228 km SE of Chiniak, Alaska",USGS,0
+Earthquake,2012-09-25,-21.192,-174.313,10.0,"67 km ENE of ‘Ohonua, Tonga",USGS,0
+Earthquake,2002-09-08,-3.306,143.41,10.0,"36 km NW of Wewak, Papua New Guinea",USGS,0
+Earthquake,2022-09-20,-55.6739,-27.3657,39.796,South Sandwich Islands region,USGS,0
+Earthquake,2012-09-04,10.666,126.778,32.7,"108 km NE of Santa Monica, Philippines",USGS,0
+Earthquake,2019-04-13,-1.8347,122.5799,10.0,"100 km SSW of Luwuk, Indonesia",USGS,0
+Earthquake,2013-10-15,10.0098,124.0544,10.0,"4 km N of Nahawan, Philippines",USGS,0
+Earthquake,2008-06-03,-8.143,120.127,10.0,"47 km NE of Labuan Bajo, Indonesia",USGS,0
+Earthquake,2023-09-18,26.5312,125.2312,176.0,"191 km N of Hirara, Japan",USGS,1
+Earthquake,2005-11-21,11.168,125.27,95.9,"14 km WNW of Balangiga, Philippines",USGS,0
+Earthquake,2019-07-31,13.1476,-89.3951,43.0,"38 km SSW of La Libertad, El Salvador",USGS,0
+Earthquake,2018-09-05,-24.0947,-174.8928,10.0,south of Tonga,USGS,0
+Earthquake,2011-01-15,2.369,96.269,10.0,"17 km SW of Sinabang, Indonesia",USGS,0
+Earthquake,2018-12-05,-21.7259,168.6138,10.0,"78 km ESE of Tadine, New Caledonia",USGS,0
+Earthquake,2010-03-27,-52.728,26.137,10.0,south of Africa,USGS,0
+Earthquake,2024-05-26,-21.1889,-173.7078,10.0,"130 km E of ‘Ohonua, Tonga",USGS,0
+Earthquake,2007-09-06,2.749,127.542,10.0,"124 km NNW of Tobelo, Indonesia",USGS,0
+Earthquake,2007-09-10,-4.13,-103.419,10.0,central East Pacific Rise,USGS,0
+Earthquake,2022-09-28,26.9509,-111.4476,10.0,"53 km E of Mulegé, Mexico",USGS,0
+Earthquake,2022-04-03,9.1938,126.632,18.0,"46 km ENE of La Paz, Philippines",USGS,0
+Earthquake,2006-05-02,8.121,-82.877,22.5,Panama-Costa Rica border region,USGS,0
+Earthquake,2016-11-28,-55.2124,-128.5132,10.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2009-10-18,-3.651,123.203,20.9,"84 km ENE of Kendari, Indonesia",USGS,0
+Earthquake,2018-12-05,-21.9051,169.4844,10.0,"170 km ESE of Tadine, New Caledonia",USGS,0
+Earthquake,2015-07-17,-13.5937,166.7655,63.24,"90 km WNW of Sola, Vanuatu",USGS,0
+Earthquake,2024-10-03,-28.42,-176.3347,10.0,Kermadec Islands region,USGS,0
+Earthquake,2014-12-25,-7.3661,155.9646,10.0,"126 km NW of Gizo, Solomon Islands",USGS,0
+Earthquake,2014-07-06,-19.9239,-177.7675,558.0,"299 km WNW of Haveluloto, Tonga",USGS,0
+Earthquake,2004-05-18,-15.669,-173.748,95.9,"32 km N of Hihifo, Tonga",USGS,0
+Earthquake,2013-10-31,38.2487,142.6742,22.02,"121 km E of Ishinomaki, Japan",USGS,0
+Earthquake,2019-06-21,-30.6423,-177.5371,10.0,"Kermadec Islands, New Zealand",USGS,0
+Earthquake,2016-08-12,-22.6037,173.4191,10.0,southeast of the Loyalty Islands,USGS,0
+Earthquake,2001-10-05,-41.281,85.101,10.0,southeast Indian Ridge,USGS,0
+Earthquake,2006-03-09,10.84,94.58,10.0,"220 km ESE of Port Blair, India",USGS,0
+Earthquake,2019-10-05,-6.3977,147.7374,64.86,"21 km NW of Finschhafen, Papua New Guinea",USGS,0
+Earthquake,2010-09-14,31.616,-40.866,10.0,northern Mid-Atlantic Ridge,USGS,0
+Earthquake,2019-11-14,1.3794,126.6982,35.0,"100 km NW of Ternate, Indonesia",USGS,0
+Earthquake,2010-01-05,-8.988,157.721,43.5,"137 km SE of Gizo, Solomon Islands",USGS,0
+Earthquake,2001-02-24,1.559,126.354,33.0,"142 km NW of Ternate, Indonesia",USGS,0
+Earthquake,2017-12-03,-0.47,-80.3101,17.0,"18 km NE of Bahía de Caráquez, Ecuador",USGS,1
+Earthquake,2006-11-15,4.89,127.392,83.2,"211 km SE of Pondaguitan, Philippines",USGS,0
+Earthquake,2023-02-07,37.7639,37.7309,10.0,"8 km ESE of Gölba??, Turkey",USGS,0
+Earthquake,2016-11-30,-6.9865,131.8204,24.0,"182 km SW of Tual, Indonesia",USGS,0
+Earthquake,2010-11-30,48.882,154.839,56.2,"219 km SSW of Severo-Kuril’sk, Russia",USGS,0
+Earthquake,2008-10-03,-23.194,169.723,10.0,"235 km ESE of Vao, New Caledonia",USGS,0
+Earthquake,2012-04-18,-0.545,131.893,35.0,"79 km ENE of Sorong, Indonesia",USGS,0
+Earthquake,2017-07-16,-5.8,-122.7719,10.0,South Pacific Ocean,USGS,0
+Earthquake,2016-09-21,-54.7913,-30.5158,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2011-08-01,-32.554,-178.97,30.6,south of the Kermadec Islands,USGS,0
+Earthquake,2012-06-04,-21.941,169.134,35.0,"136 km ESE of Tadine, New Caledonia",USGS,0
+Earthquake,2013-06-06,-6.389,154.67,88.4,"90 km W of Panguna, Papua New Guinea",USGS,0
+Earthquake,2009-04-16,-3.327,100.317,7.7,"184 km SW of Sungai Penuh, Indonesia",USGS,0
+Earthquake,2011-03-14,39.874,142.981,23.9,"92 km ENE of Miyako, Japan",USGS,0
+Earthquake,2012-04-11,1.269,92.311,10.0,off the west coast of northern Sumatra,USGS,0
+Earthquake,2004-08-29,-62.62,165.248,10.0,Balleny Islands region,USGS,0
+Earthquake,2022-10-10,-4.8159,153.5304,92.499,"New Ireland region, Papua New Guinea",USGS,0
+Earthquake,2015-09-05,51.4624,-174.4321,20.0,"83 km S of Atka, Alaska",USGS,0
+Earthquake,2014-12-06,-6.11,130.4829,116.0,Banda Sea,USGS,1
+Earthquake,2016-04-10,36.4725,71.1311,212.0,"42 km WSW of Ashk?sham, Afghanistan",USGS,1
+Earthquake,2009-08-23,-1.649,99.572,18.2,"116 km SW of Padang, Indonesia",USGS,0
+Earthquake,2006-11-15,47.239,153.771,10.0,Kuril Islands,USGS,0
+Earthquake,2005-06-09,5.178,126.899,88.7,"153 km SSE of Pondaguitan, Philippines",USGS,0
+Earthquake,2020-01-15,17.9155,-67.0171,5.0,Puerto Rico region,USGS,0
+Earthquake,2012-05-12,38.612,70.354,10.0,"44 km SE of Darband, Tajikistan",USGS,0
+Earthquake,2025-02-28,73.1535,132.7832,10.0,"209 km NE of Tiksi, Russia",USGS,0
+Earthquake,2009-12-02,12.189,125.552,14.0,"4 km ENE of San Policarpo, Philippines",USGS,0
+Earthquake,2015-09-17,-31.982,-72.8506,10.0,"161 km WNW of La Ligua, Chile",USGS,0
+Earthquake,2010-02-27,-34.793,-71.541,35.0,"23 km SW of Santa Cruz, Chile",USGS,0
+Earthquake,2009-04-21,-4.23,129.664,30.2,"128 km SE of Amahai, Indonesia",USGS,0
+Earthquake,2012-10-28,52.674,-132.602,9.0,"237 km SW of Prince Rupert, Canada",USGS,1
+Earthquake,2015-08-21,-22.4517,-178.2033,380.45,south of the Fiji Islands,USGS,0
+Earthquake,2012-01-01,12.018,143.607,6.5,"179 km SW of Merizo Village, Guam",USGS,0
+Earthquake,2000-09-10,-1.112,129.332,33.0,"216 km W of Sorong, Indonesia",USGS,1
+Earthquake,2021-11-06,-0.0451,124.2812,34.0,"150 km ESE of Gorontalo, Indonesia",USGS,1
+Earthquake,2008-12-27,-14.833,167.77,40.3,"78 km ENE of Port-Olry, Vanuatu",USGS,0
+Earthquake,2000-08-25,-24.74,-177.017,33.0,south of the Fiji Islands,USGS,0
+Earthquake,2004-01-03,-22.285,169.662,10.0,"201 km ESE of Tadine, New Caledonia",USGS,0
+Earthquake,2010-02-22,-23.626,-176.036,15.0,"277 km SSW of ‘Ohonua, Tonga",USGS,1
+Earthquake,2010-02-28,-1.177,-80.39,35.0,"3 km NNW of Santa Ana, Ecuador",USGS,0
+Earthquake,2007-11-28,-2.261,100.529,50.8,"98 km WSW of Sungai Penuh, Indonesia",USGS,0
+Earthquake,2009-07-11,22.191,-108.295,4.0,"161 km E of La Playa, Mexico",USGS,0
+Earthquake,2006-04-09,-5.529,147.86,187.9,"113 km N of Finschhafen, Papua New Guinea",USGS,0
+Earthquake,2021-08-16,-4.3859,82.2709,10.0,South Indian Ocean,USGS,0
+Earthquake,2015-06-20,-59.6293,-26.5027,50.11,South Sandwich Islands region,USGS,0
+Earthquake,2014-04-14,4.0401,-31.8078,10.0,central Mid-Atlantic Ridge,USGS,0
+Earthquake,2014-11-27,-21.0708,-175.4844,77.0,"29 km WNW of Haveluloto, Tonga",USGS,0
+Earthquake,2013-11-25,38.4819,141.94,52.86,"56 km E of Ishinomaki, Japan",USGS,0
+Earthquake,2016-03-18,49.673,-129.8485,10.0,"222 km WSW of Port McNeill, Canada",USGS,0
+Earthquake,2007-09-22,-3.847,-103.753,10.0,central East Pacific Rise,USGS,0
+Earthquake,2005-08-06,11.714,125.718,28.8,"28 km E of San Julian, Philippines",USGS,0
+Earthquake,2010-07-10,11.143,145.999,13.0,"272 km SSE of Inarajan Village, Guam",USGS,1
+Earthquake,2003-04-29,-7.02,103.683,10.0,"247 km WSW of Labuan, Indonesia",USGS,0
+Earthquake,2025-05-02,-58.0483,-25.0982,38.584,South Sandwich Islands region,USGS,0
+Earthquake,2025-05-27,84.9845,96.8306,10.0,north of Severnaya Zemlya,USGS,0
+Earthquake,2006-01-29,6.746,-77.699,17.6,"40 km S of Juradó, Colombia",USGS,0
+Earthquake,2001-10-04,34.92,141.598,42.9,"113 km SE of Hasaki, Japan",USGS,0
+Earthquake,2008-10-18,-6.951,147.269,77.3,"39 km SE of Lae, Papua New Guinea",USGS,0
+Earthquake,2000-04-23,-28.307,-62.99,608.5,"22 km NW of Añatuya, Argentina",USGS,1
+Earthquake,2002-08-04,-45.022,-80.732,10.0,"Off the coast of Aisen, Chile",USGS,0
+Earthquake,2012-01-19,-10.979,165.477,46.8,"44 km SW of Lata, Solomon Islands",USGS,0
+Earthquake,2016-10-27,53.6518,-163.2971,18.81,"134 km S of False Pass, Alaska",USGS,0
+Earthquake,2003-08-11,18.348,-106.036,10.0,"161 km SW of Emiliano Zapata, Mexico",USGS,0
+Earthquake,2010-08-03,1.239,126.213,41.0,"139 km WNW of Ternate, Indonesia",USGS,1
+Earthquake,2011-09-15,36.358,82.51,17.8,"244 km ESE of Hotan, China",USGS,0
+Earthquake,2008-04-03,19.772,121.329,10.0,"100 km SW of Basco, Philippines",USGS,0
+Earthquake,2006-06-14,52.0032,177.0047,4.8,"276 km ESE of Attu Station, Alaska",USGS,0
+Earthquake,2004-07-06,-11.725,-13.523,10.0,Ascension Island region,USGS,0
+Earthquake,2016-09-23,30.4921,141.7943,35.0,"Izu Islands, Japan region",USGS,0
+Earthquake,2004-03-07,-32.544,-178.597,10.0,south of the Kermadec Islands,USGS,0
+Earthquake,2024-02-15,-11.4869,-77.3579,67.251,"13 km NW of Chancay, Peru",USGS,0
+Earthquake,2002-08-03,-1.506,-14.374,10.0,north of Ascension Island,USGS,0
+Earthquake,2010-12-26,-19.506,168.101,10.0,"123 km W of Isangel, Vanuatu",USGS,0
+Earthquake,2023-11-07,-4.3152,152.9663,48.3,"77 km E of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2024-01-01,37.5339,137.4185,10.0,"56 km NE of Anamizu, Japan",USGS,0
+Earthquake,2011-08-11,-4.768,133.817,35.0,"151 km NE of Tual, Indonesia",USGS,0
+Earthquake,2018-02-26,-5.7828,142.5555,10.0,"43 km W of Tari, Papua New Guinea",USGS,0
+Earthquake,2018-06-09,-5.8776,151.9083,10.0,"174 km SSW of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2006-02-26,5.609,94.688,30.0,"71 km W of Banda Aceh, Indonesia",USGS,0
+Earthquake,2021-02-10,-5.6856,101.6495,10.0,"219 km SSW of Bengkulu, Indonesia",USGS,1
+Earthquake,2010-10-14,5.545,-82.658,10.0,"276 km S of Punta de Burica, Panama",USGS,0
+Earthquake,2012-07-10,-1.692,134.248,30.2,"93 km SSE of Manokwari, Indonesia",USGS,0
+Earthquake,2000-04-01,-8.156,118.963,33.0,"42 km NE of Bima, Indonesia",USGS,0
+Earthquake,2006-06-22,-3.119,129.056,15.5,"28 km NNE of Amahai, Indonesia",USGS,0
+Earthquake,2014-06-09,32.4987,105.1835,16.9,"60 km W of Guangyuan, China",USGS,0
+Earthquake,2023-05-19,-18.0204,167.6371,10.0,"78 km WSW of Port-Vila, Vanuatu",USGS,0
+Earthquake,2021-04-15,12.4334,141.5893,10.0,Mariana Islands region,USGS,0
+Earthquake,2016-03-30,-14.78,66.9363,10.0,Mid-Indian Ridge,USGS,0
+Earthquake,2019-04-01,7.6688,94.3113,10.0,"225 km NNW of Sabang, Indonesia",USGS,0
+Earthquake,2000-03-06,-62.907,145.8,10.0,south of Australia,USGS,0
+Earthquake,2002-01-04,1.945,97.919,42.2,"40 km SSE of Singkil, Indonesia",USGS,0
+Earthquake,2006-11-15,47.191,155.269,10.0,east of the Kuril Islands,USGS,0
+Earthquake,2003-08-11,-17.65,-173.092,33.0,"145 km NE of Neiafu, Tonga",USGS,0
+Earthquake,2025-12-17,43.5441,148.0251,10.0,"108 km ESE of Shikotan, Russia",USGS,0
+Earthquake,2021-08-13,-26.4394,-175.7162,10.0,south of Tonga,USGS,0
+Earthquake,2005-01-15,-6.462,105.236,58.7,"66 km W of Labuan, Indonesia",USGS,1
+Earthquake,2007-04-02,-7.504,156.126,10.0,"103 km NW of Gizo, Solomon Islands",USGS,0
+Earthquake,2020-08-20,54.2149,-162.7756,52.9,"82 km SSE of False Pass, Alaska",USGS,0
+Earthquake,2011-05-01,-6.947,155.86,46.0,"81 km SSE of Panguna, Papua New Guinea",USGS,0
+Earthquake,2007-02-26,40.642,-124.87,4.957,"52km W of Ferndale, CA",USGS,0
+Earthquake,2017-12-20,30.6668,131.8929,10.0,"85 km E of Nishinoomote, Japan",USGS,0
+Earthquake,2020-06-03,-24.6746,-176.7113,69.85,south of the Fiji Islands,USGS,1
+Earthquake,2011-07-27,-22.038,170.038,10.0,"229 km ESE of Tadine, New Caledonia",USGS,0
+Earthquake,2005-06-19,35.612,140.479,48.2,"5 km ENE of Narut?, Japan",USGS,0
+Earthquake,2008-07-16,33.171,92.079,20.3,"187 km N of Nagqu, China",USGS,0
+Earthquake,2022-05-02,-57.0699,-25.1521,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2008-03-20,35.457,81.409,10.0,"225 km SE of Hotan, China",USGS,0
+Earthquake,2022-07-04,56.6383,-169.0865,11.623,"28 km E of Saint George, Alaska",USGS,0
+Earthquake,2000-07-12,-19.333,-176.454,33.0,"226 km WNW of Pangai, Tonga",USGS,0
+Earthquake,2005-07-02,11.407,-86.252,40.5,"34 km W of Tola, Nicaragua",USGS,0
+Earthquake,2024-01-05,-49.8157,115.1839,10.0,western Indian-Antarctic Ridge,USGS,0
+Earthquake,2002-10-12,-59.537,-25.962,33.0,South Sandwich Islands region,USGS,0
+Earthquake,2019-09-29,5.6756,126.5481,73.0,"86 km SSE of Pondaguitan, Philippines",USGS,1
+Earthquake,2011-12-23,13.188,120.64,70.5,"6 km SE of Mamburao, Philippines",USGS,0
+Earthquake,2004-11-12,-8.062,124.827,10.0,"73 km NW of Maubara, Timor Leste",USGS,0
+Earthquake,2015-10-12,-40.5837,176.2884,22.0,"35 km N of Castlepoint, New Zealand",USGS,0
+Earthquake,2009-02-12,4.026,126.735,35.0,"207 km SE of Sarangani, Philippines",USGS,0
+Earthquake,2021-03-05,-29.5324,-176.8455,10.0,Kermadec Islands region,USGS,0
+Earthquake,2004-06-02,4.798,-32.654,10.0,central Mid-Atlantic Ridge,USGS,0
+Earthquake,2021-03-04,-28.6071,-176.7115,10.0,Kermadec Islands region,USGS,0
+Earthquake,2024-01-23,41.1299,78.5932,10.0,"131 km W of Aykol, China",USGS,0
+Earthquake,2022-12-21,-31.3468,-178.418,28.038,Kermadec Islands region,USGS,0
+Earthquake,2005-05-10,51.267,-178.485,29.2,"145 km WSW of Adak, Alaska",USGS,0
+Earthquake,2014-04-19,-6.9127,154.6101,37.71,"117 km SW of Panguna, Papua New Guinea",USGS,0
+Earthquake,2012-11-08,-18.807,-173.33,11.0,"71 km ESE of Neiafu, Tonga",USGS,0
+Earthquake,2021-01-16,36.4494,70.6979,204.0,"47 km SSW of Jurm, Afghanistan",USGS,0
+Earthquake,2007-07-03,0.715,-30.272,10.0,central Mid-Atlantic Ridge,USGS,1
+Earthquake,2018-03-04,-0.6573,123.1382,49.22,"50 km NE of Luwuk, Indonesia",USGS,0
+Earthquake,2012-01-25,-5.209,152.136,65.4,"96 km S of Kokopo, Papua New Guinea",USGS,0
+Earthquake,2007-09-17,24.453,-109.953,10.0,"49 km NE of La Paz, Mexico",USGS,0
+Earthquake,2013-03-11,-6.783,148.368,10.0,"62 km ESE of Finschhafen, Papua New Guinea",USGS,0
+Earthquake,2014-12-07,-6.5108,154.4603,23.0,"115 km W of Panguna, Papua New Guinea",USGS,1
+Earthquake,2017-02-24,-29.9413,-177.0136,10.0,"Kermadec Islands, New Zealand",USGS,0
+Earthquake,2007-10-08,-3.759,150.219,10.0,"145 km SSW of Kavieng, Papua New Guinea",USGS,0
+Earthquake,2024-09-04,-7.508,126.491,10.0,"107 km N of Baukau, Timor Leste",USGS,0
+Earthquake,2013-05-12,-20.996,-68.673,132.6,"163 km N of Calama, Chile",USGS,0
+Earthquake,2023-11-01,-8.3219,121.5495,10.0,"58 km NNW of Ende, Indonesia",USGS,0
+Earthquake,2005-04-15,2.932,96.335,26.3,"50 km N of Sinabang, Indonesia",USGS,0
+Earthquake,2022-06-08,-30.2032,-177.7589,22.87,"Kermadec Islands, New Zealand",USGS,0
+Earthquake,2007-02-15,-22.119,171.91,35.2,southeast of the Loyalty Islands,USGS,0
+Earthquake,2004-12-26,10.363,93.747,19.5,"180 km SE of Port Blair, India",USGS,0
+Earthquake,2021-08-12,-59.8806,-26.2393,35.0,South Sandwich Islands region,USGS,0
+Earthquake,2004-12-28,8.738,92.646,30.0,"Nicobar Islands, India region",USGS,0
+Earthquake,2021-07-26,41.4815,142.0615,55.88,"73 km ENE of Mutsu, Japan",USGS,0
+Earthquake,2024-09-15,51.6088,-130.6121,3.766,"271 km WNW of Port McNeill, Canada",USGS,1
+Earthquake,2017-09-16,15.2266,-94.6967,12.76,"111 km S of San Francisco del Mar Viejo, Mexico",USGS,0
+Earthquake,2012-12-07,37.813,143.633,35.0,"215 km ESE of Ishinomaki, Japan",USGS,0
+Earthquake,2023-11-08,-6.345,129.957,10.0,Banda Sea,USGS,0
+Earthquake,2021-01-30,-19.9589,-70.3542,58.5,"35 km NW of Iquique, Chile",USGS,0
+Earthquake,2009-02-14,18.674,-68.919,121.6,"11 km NNE of Guaymate, Dominican Republic",USGS,0
+Earthquake,2016-01-27,8.3122,137.7608,10.0,"138 km SSW of Colonia, Micronesia",USGS,0
+Earthquake,2001-02-16,-6.08,104.68,33.0,"96 km SW of Bandar Lampung, Indonesia",USGS,0
+Earthquake,2022-05-07,54.1305,163.2361,10.0,"238 km SSE of Ust’-Kamchatsk Staryy, Russia",USGS,0
+Earthquake,2025-08-23,-56.2953,-26.8369,76.161,South Sandwich Islands region,USGS,0
+Earthquake,2011-02-14,-35.623,-72.004,35.0,"25 km W of San Javier, Chile",USGS,0
+Earthquake,2008-05-21,-9.946,150.914,35.9,"64 km NE of Alotau, Papua New Guinea",USGS,0
+Earthquake,2025-12-02,-20.8566,-178.9541,620.0,Fiji region,USGS,0
+Earthquake,2007-08-06,2.523,66.295,10.0,Carlsberg Ridge,USGS,0
+Earthquake,2024-01-03,-28.4508,-68.8167,117.0,"68 km WNW of Vinchina, Argentina",USGS,0
+Earthquake,2002-06-19,-6.718,154.925,79.6,"76 km SW of Panguna, Papua New Guinea",USGS,0
+Earthquake,2003-01-20,-10.491,160.77,33.0,"126 km W of Kirakira, Solomon Islands",USGS,1
+Earthquake,2016-08-20,-55.2887,-30.4309,10.0,South Sandwich Islands region,USGS,0
+Earthquake,2011-01-15,-20.691,168.455,10.0,"112 km NNE of Tadine, New Caledonia",USGS,0
+Earthquake,2014-05-06,-36.1703,-97.054,16.83,West Chile Rise,USGS,1
+Earthquake,2002-03-11,30.599,141.566,33.0,"Izu Islands, Japan region",USGS,0
+Earthquake,2014-01-27,-11.8278,165.2389,14.14,"136 km SSW of Lata, Solomon Islands",USGS,0
+Earthquake,2003-01-31,10.241,-85.339,27.1,"15 km NE of Nicoya, Costa Rica",USGS,0
+Earthquake,2009-05-17,-27.231,-69.636,93.6,"70 km ENE of Copiapó, Chile",USGS,0
+Earthquake,2011-11-20,-23.053,-175.383,35.0,"195 km SSW of ‘Ohonua, Tonga",USGS,0
+Earthquake,2023-09-21,30.966,141.8013,12.765,"Izu Islands, Japan region",USGS,0
+Earthquake,2013-01-27,36.562,140.446,89.2,"2 km ENE of ?miya, Japan",USGS,0
+Earthquake,2020-08-08,43.2428,87.671,10.0,"62 km S of Ürümqi, China",USGS,0
+Earthquake,2025-07-17,-10.1195,119.1925,24.0,"76 km S of Tambolaka, Indonesia",USGS,0
+Earthquake,2011-11-22,-15.364,-65.09,549.9,"62 km SSW of Trinidad, Bolivia",USGS,1
+Earthquake,2017-05-29,-1.315,120.4649,10.0,"33 km WNW of Poso, Indonesia",USGS,0
+Earthquake,2008-02-04,19.028,-66.902,14.5,Puerto Rico region,USGS,0
+Earthquake,2002-02-18,-3.767,151.418,10.0,"95 km WNW of Rabaul, Papua New Guinea",USGS,0
+Earthquake,2009-08-15,-19.826,-178.239,608.4,Fiji region,USGS,0
+Earthquake,2012-10-10,29.33,52.49,9.0,"29 km WNW of Akbar?b?d, Iran",USGS,0
+Earthquake,2016-06-02,18.0217,-105.8338,10.0,"176 km SSW of Emiliano Zapata, Mexico",USGS,0
+Earthquake,2000-07-31,-14.455,167.282,179.0,"68 km NNE of Port-Olry, Vanuatu",USGS,0
+Earthquake,2006-09-18,51.596,-173.961,18.0,"68 km SSE of Atka, Alaska",USGS,0
+Earthquake,2020-03-23,-25.281,179.7207,506.13,south of the Fiji Islands,USGS,0
+Earthquake,2001-06-23,-17.72,-71.054,33.0,"25 km ESE of El Algarrobal, Peru",USGS,0
+Earthquake,2023-02-18,38.0696,36.5991,12.158,"10 km ENE of Göksun, Turkey",USGS,0
+Earthquake,2013-02-17,-10.79,165.824,10.0,"7 km SSE of Lata, Solomon Islands",USGS,0
+Earthquake,2006-02-26,-8.66,106.04,3.6,"193 km SSW of Pelabuhanratu, Indonesia",USGS,0
+Earthquake,2016-03-09,11.6625,144.6665,10.0,"177 km S of Merizo Village, Guam",USGS,0
+Earthquake,2015-08-19,-9.6935,28.6437,14.91,"39 km SSW of Nchelenge, Zambia",USGS,0
+Earthquake,2013-05-26,-36.033,-99.847,10.1,southeast of Easter Island,USGS,0
+Earthquake,2004-03-27,39.959,69.231,20.9,"20 km ENE of Istaravshan, Tajikistan",USGS,0
+Earthquake,2007-11-07,22.15,92.388,28.7,"18 km ESE of B?ndarban, Bangladesh",USGS,0
+Earthquake,2007-12-14,-7.146,156.088,42.6,"113 km SE of Panguna, Papua New Guinea",USGS,0
+Earthquake,2013-04-16,0.981,125.041,99.6,"38 km SSE of Tondano, Indonesia",USGS,0
+Earthquake,2012-03-14,40.781,144.761,10.0,"245 km S of Kushiro, Japan",USGS,1
+Earthquake,2024-05-23,5.4521,61.6896,10.0,Carlsberg Ridge,USGS,0
+Earthquake,2019-01-12,-7.2344,129.2095,117.01,"282 km ENE of Lospalos, Timor Leste",USGS,0
+Earthquake,2011-02-21,-26.142,178.394,558.1,south of the Fiji Islands,USGS,1
+Earthquake,2025-10-10,6.8332,126.9556,73.342,"60 km ESE of San Ignacio, Philippines",USGS,0
+Earthquake,2023-12-05,9.0999,126.6497,26.021,"43 km ENE of Bacolod, Philippines",USGS,0
+Earthquake,2018-05-22,12.8932,145.4248,10.99,"84 km ESE of Inarajan Village, Guam",USGS,0
+Earthquake,2016-10-04,34.7267,141.4434,19.44,"111 km ESE of ?hara, Japan",USGS,0
+Earthquake,2012-08-15,13.148,-89.215,56.0,"39 km SSE of La Libertad, El Salvador",USGS,0
+Earthquake,2005-12-05,16.614,-46.554,10.0,northern Mid-Atlantic Ridge,USGS,0
+Earthquake,2023-07-02,-17.881,-174.9484,229.0,"132 km NW of Neiafu, Tonga",USGS,1
+Earthquake,2006-10-20,-22.924,-176.9,133.7,"261 km SW of Vaini, Tonga",USGS,0
+Earthquake,2004-12-27,8.948,93.682,30.0,"Nicobar Islands, India region",USGS,0
+Earthquake,2015-09-06,31.2807,141.8553,10.0,"Izu Islands, Japan region",USGS,0
+Earthquake,2001-08-13,-5.703,142.305,33.0,"72 km WNW of Tari, Papua New Guinea",USGS,0
+Earthquake,2021-06-20,-30.2162,-177.8449,25.0,"Kermadec Islands, New Zealand",USGS,1
+Earthquake,2009-05-15,56.2939,-151.9714,10.0,"130 km SE of Old Harbor, Alaska",USGS,0
+Earthquake,2001-01-12,17.333,120.908,33.0,"19 km SE of Bantay, Philippines",USGS,0
+Earthquake,2016-06-21,-6.2991,130.3051,132.29,"280 km WSW of Tual, Indonesia",USGS,0
+Earthquake,2007-10-24,-15.078,-177.359,352.4,"117 km SE of Alo, Wallis and Futuna",USGS,0
+Earthquake,2009-06-23,39.203,143.463,28.0,"133 km ESE of Yamada, Japan",USGS,0
+Earthquake,2017-10-28,86.8972,53.2109,10.0,north of Franz Josef Land,USGS,0
+Earthquake,2005-06-05,-6.733,155.351,34.1,"48 km SSW of Panguna, Papua New Guinea",USGS,0
+Earthquake,2009-11-20,10.576,-82.962,26.3,"64 km NNE of Matina, Costa Rica",USGS,0
+Earthquake,2004-11-16,53.064,160.134,48.4,"99 km E of Petropavlovsk-Kamchatsky, Russia",USGS,0
+Earthquake,2010-07-06,-50.477,114.179,10.0,western Indian-Antarctic Ridge,USGS,0
+Earthquake,2020-04-02,-6.9666,126.6195,408.54,"167 km N of Baukau, Timor Leste",USGS,0
+Earthquake,2023-12-02,8.302,126.5678,60.889,"21 km NE of Barcelona, Philippines",USGS,0
+Earthquake,2018-08-11,-20.4564,-176.2065,177.82,"128 km NW of Haveluloto, Tonga",USGS,0
+Earthquake,2001-06-26,-10.039,161.23,84.0,"88 km WNW of Kirakira, Solomon Islands",USGS,0
+Earthquake,2008-06-30,-58.227,-22.099,8.0,South Sandwich Islands region,USGS,1
+Earthquake,2019-10-22,-2.589,138.2835,21.65,"261 km W of Abepura, Indonesia",USGS,0
+Earthquake,2021-07-31,27.5909,-111.497,10.0,"60 km SW of San Carlos, Mexico",USGS,0
+Earthquake,2017-05-08,-8.0489,-76.6596,10.0,"21 km NW of Tocache, Peru",USGS,0
+Earthquake,2001-04-07,-27.554,-176.336,33.0,Kermadec Islands region,USGS,1
+Earthquake,2004-10-14,-17.33,167.582,30.0,"89 km WNW of Port-Vila, Vanuatu",USGS,0
+Earthquake,2013-07-20,-41.638,174.386,14.0,"38 km ESE of Blenheim, New Zealand",USGS,0
+Earthquake,2010-08-10,-14.46,167.345,191.6,"68 km SSW of Sola, Vanuatu",USGS,0
+Earthquake,2013-12-08,44.4438,149.1667,28.0,"134 km SE of Kuril’sk, Russia",USGS,1
+Earthquake,2008-11-07,-14.79,167.945,10.0,"97 km ENE of Port-Olry, Vanuatu",USGS,0
+Earthquake,2011-04-01,39.323,141.95,41.0,"6 km SE of ?tsuchi, Japan",USGS,0
+Earthquake,2013-07-10,39.638,141.705,81.9,"20 km W of Miyako, Japan",USGS,0
+Earthquake,2020-04-24,-19.8074,-126.5612,10.0,South Pacific Ocean,USGS,0
+Earthquake,2011-06-03,9.635,92.459,45.0,"226 km S of Port Blair, India",USGS,0
+Earthquake,2010-03-06,14.702,144.287,10.0,"143 km NNW of Asan-Maina Village, Guam",USGS,0
+Earthquake,2018-05-24,-19.7691,14.6616,10.0,"73 km NNW of Khorixas, Namibia",USGS,0
+Earthquake,2018-02-27,-60.2494,150.7793,10.0,west of Macquarie Island,USGS,1
+Earthquake,2021-10-08,32.3379,49.7282,10.0,"59 km NE of Masjed Soleym?n, Iran",USGS,0
+Earthquake,2004-05-16,-11.918,166.247,10.0,"140 km SSE of Lata, Solomon Islands",USGS,0
+Earthquake,2008-04-29,41.452,142.03,46.7,"70 km ENE of Mutsu, Japan",USGS,0
+Earthquake,2007-10-05,-16.775,-177.388,10.0,"283 km SSE of Alo, Wallis and Futuna",USGS,0
+Earthquake,2023-02-06,38.0166,37.7013,10.0,"16 km WSW of Do?an?ehir, Turkey",USGS,0
+Earthquake,2014-05-23,56.0474,113.9039,3.26,"31 km ESE of Severomuysk, Russia",USGS,0
+Earthquake,2009-02-11,3.376,126.102,35.0,"235 km SSE of Sarangani, Philippines",USGS,0
+Earthquake,2015-07-28,-2.7681,122.3543,44.66,"134 km N of Kendari, Indonesia",USGS,0
+Earthquake,2012-10-14,41.825,46.405,10.0,"10 km E of Lagodekhi, Georgia",USGS,0
+Earthquake,2009-10-02,-16.635,-172.611,10.0,"147 km ESE of Hihifo, Tonga",USGS,0
+Earthquake,2017-10-13,43.4755,-127.1378,10.0,"224 km W of Bandon, Oregon",USGS,0
+Earthquake,2019-12-25,-25.2226,-115.8438,10.0,southern East Pacific Rise,USGS,1
+Earthquake,2011-10-17,-5.801,150.994,35.0,"98 km ESE of Kimbe, Papua New Guinea",USGS,0
+Earthquake,2020-03-26,31.7168,-104.0419,9.51,"41 km W of Mentone, Texas",USGS,0
+Earthquake,2014-05-17,-54.2473,-146.6847,5.0,Pacific-Antarctic Ridge,USGS,0
+Earthquake,2020-01-28,41.4656,19.5362,10.0,"12 km NW of Vorë, Albania",USGS,0
+Earthquake,2013-05-10,-6.496,154.378,65.5,"124 km W of Panguna, Papua New Guinea",USGS,0
+Earthquake,2013-01-12,-3.042,129.795,19.8,"102 km ENE of Amahai, Indonesia",USGS,0
+Earthquake,2024-04-08,31.6565,131.3933,50.529,"6 km NNE of Nichinan, Japan",USGS,0
+Earthquake,2019-12-16,24.4963,121.8014,35.0,"29 km S of Yilan, Taiwan",USGS,0
+Earthquake,2008-05-07,36.228,141.7,38.5,"95 km NE of Hasaki, Japan",USGS,0
+Earthquake,2020-04-10,12.512,144.0556,10.0,"106 km SW of Merizo Village, Guam",USGS,0
+Earthquake,2011-10-03,-20.07,-68.916,106.7,"130 km E of Iquique, Chile",USGS,0
+Earthquake,2021-03-04,-37.7313,-179.8876,10.0,"211 km ENE of Gisborne, New Zealand",USGS,0
+Earthquake,2004-12-28,4.691,95.261,47.0,"94 km S of Banda Aceh, Indonesia",USGS,0
+Earthquake,2025-04-04,-6.1862,151.6346,10.0,"180 km ESE of Kimbe, Papua New Guinea",USGS,0
+Earthquake,2011-07-28,40.344,143.236,30.9,"135 km NE of Miyako, Japan",USGS,0
+Earthquake,2009-05-08,58.128,164.258,8.7,"142 km SSE of Ossora, Russia",USGS,0
+Earthquake,2022-04-10,31.0381,-41.3908,10.0,northern Mid-Atlantic Ridge,USGS,0
+Earthquake,2011-12-02,-10.255,161.45,75.4,"56 km WNW of Kirakira, Solomon Islands",USGS,0
+Earthquake,2009-07-13,-9.139,119.32,65.0,"63 km SSW of Komodo, Indonesia",USGS,0
+Earthquake,2009-07-13,-53.174,-118.414,10.0,southern East Pacific Rise,USGS,0
+Earthquake,2017-03-16,-35.4243,-179.5836,35.0,east of the North Island of New Zealand,USGS,0
+Earthquake,2022-10-24,-10.463,161.3684,130.93,"60 km W of Kirakira, Solomon Islands",USGS,0
+Earthquake,2006-03-03,-55.695,-4.232,10.0,southern Mid-Atlantic Ridge,USGS,1
+Earthquake,2010-12-25,26.78,143.93,10.0,"Bonin Islands, Japan region",USGS,0
+Earthquake,2004-05-03,-18.044,-172.55,50.0,"165 km ENE of Neiafu, Tonga",USGS,0
+Earthquake,2006-01-20,-22.399,173.967,10.0,southeast of the Loyalty Islands,USGS,0
+Earthquake,2005-12-16,12.252,-89.521,34.7,"138 km S of La Libertad, El Salvador",USGS,0
+Earthquake,2008-11-28,13.391,120.561,67.7,"11 km ESE of Paluan, Philippines",USGS,0
+Earthquake,2017-05-15,23.2637,121.4488,16.31,"80 km SSW of Hualien City, Taiwan",USGS,0
+Earthquake,2000-12-11,19.091,-67.093,52.6,"65 km N of Isabela, Puerto Rico",USGS,0
+Earthquake,2024-04-03,24.1741,121.7374,32.25,"25 km NNE of Hualien City, Taiwan",USGS,0
+Earthquake,2015-10-20,-57.4332,-65.8872,9.08,Drake Passage,USGS,0
+Earthquake,2010-11-03,-6.345,104.058,57.1,"167 km SW of Bandar Lampung, Indonesia",USGS,0
+Earthquake,2011-04-10,-23.604,179.839,517.6,south of the Fiji Islands,USGS,0
+Earthquake,2012-02-29,-17.794,167.399,10.0,"97 km W of Port-Vila, Vanuatu",USGS,0
+Earthquake,2011-11-13,-29.714,-177.682,73.9,"Kermadec Islands, New Zealand",USGS,0
+Earthquake,2019-02-23,1.0887,128.1998,10.0,"73 km SSE of Tobelo, Indonesia",USGS,0
+Earthquake,2006-05-25,36.87,20.34,35.0,"103 km SSW of Lithakiá, Greece",USGS,0
+Earthquake,2000-02-28,-17.588,-178.984,538.0,"187 km ENE of Levuka, Fiji",USGS,1
+Earthquake,2003-06-01,28.197,142.773,10.0,"Bonin Islands, Japan region",USGS,0
+Earthquake,2023-12-12,8.5843,126.6104,42.549,"38 km NE of Hinatuan, Philippines",USGS,0
+Earthquake,2005-03-23,-10.146,161.373,71.9,"68 km WNW of Kirakira, Solomon Islands",USGS,0
+Earthquake,2009-09-30,-15.485,-173.343,10.0,"71 km NE of Hihifo, Tonga",USGS,0
+Earthquake,2016-11-21,-44.1498,38.2898,10.0,Prince Edward Islands region,USGS,0
+Earthquake,2011-04-09,29.999,131.78,11.0,"110 km SE of Nishinoomote, Japan",USGS,0
+Earthquake,2005-04-10,-1.621,99.638,30.0,"108 km SW of Padang, Indonesia",USGS,0
+Earthquake,2001-07-14,7.264,-79.81,10.0,"37 km SE of Pedasí, Panama",USGS,0
+Earthquake,2016-02-25,-7.5022,128.5293,158.61,"202 km NE of Lospalos, Timor Leste",USGS,0
+Earthquake,2006-03-17,-4.822,149.744,22.8,"91 km NNW of Kimbe, Papua New Guinea",USGS,0
+Earthquake,2023-01-03,-65.4071,178.8954,10.0,Balleny Islands region,USGS,0
+Earthquake,2016-12-25,-43.4064,-73.9413,38.0,"41 km SW of Quellón, Chile",USGS,1
+Earthquake,2012-03-14,-24.412,-176.331,10.0,south of the Fiji Islands,USGS,0
+Earthquake,2013-12-14,35.6544,140.6546,42.0,"6 km S of Asahi, Japan",USGS,0
+Earthquake,2019-02-13,9.8029,126.5091,10.0,"44 km E of Union, Philippines",USGS,0
+Earthquake,2009-06-15,9.045,93.624,42.6,"Nicobar Islands, India region",USGS,0
+Earthquake,2004-01-11,-20.047,-179.079,657.2,"276 km SE of Levuka, Fiji",USGS,0
+Earthquake,2008-12-03,-5.968,147.751,51.6,"66 km N of Finschhafen, Papua New Guinea",USGS,0
+Earthquake,2014-10-16,1.0484,97.221,26.76,"150 km SSW of Singkil, Indonesia",USGS,0
+Earthquake,2002-04-18,-27.535,-70.586,62.0,"31 km SW of Copiapó, Chile",USGS,1
+Earthquake,2024-11-22,-53.0712,19.6854,10.0,southwest of Africa,USGS,0
+Earthquake,2021-04-19,-7.7259,127.7426,76.0,"120 km NE of Lospalos, Timor Leste",USGS,0
+Earthquake,2005-10-25,-22.867,-176.008,73.1,"201 km SSW of ‘Ohonua, Tonga",USGS,0
+Earthquake,2003-02-15,12.171,123.921,10.0,"2 km N of Palanas, Philippines",USGS,0
+Earthquake,2001-05-20,18.816,-104.446,33.0,"33 km SW of El Colomo, Mexico",USGS,1
+Earthquake,2003-10-27,-6.184,103.737,33.0,"188 km WSW of Bandar Lampung, Indonesia",USGS,0
+Earthquake,2017-07-09,-11.6068,-13.1802,10.0,Ascension Island region,USGS,0
+Earthquake,2008-06-02,-15.223,-173.672,35.0,"82 km N of Hihifo, Tonga",USGS,0
+Earthquake,2020-07-15,-15.8917,67.361,10.0,Mid-Indian Ridge,USGS,0
