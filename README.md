@@ -59,9 +59,10 @@ ML-Predicción-Sismicidad-Global/
 - pandas
 - numpy
 - scikit-learn
+- imbalanced-learn (SMOTE)
 - matplotlib
 - seaborn
-- pickle / joblib
+- joblib
 
 ---
 
@@ -88,11 +89,15 @@ jupyter notebook main.ipynb
 
 ## 📈 Principales resultados
 
-> *(Se completará una vez finalizado el modelado)*
+| Métrica | Valor |
+|---------|-------|
+| Modelo seleccionado | Decision Tree (optimizado con GridSearchCV) |
+| Técnica de balanceo | SMOTE |
+| F1-Score (test) | 0.2276 |
+| Recall clase severo (test) | 59% |
+| Umbral de decisión | 0.5 (prioriza recall sobre precisión) |
 
-- **Modelo seleccionado:** Por determinar
-- **F1-Score (test):** Por determinar
-- **ROC-AUC (test):** Por determinar
+> La decisión de priorizar el recall sobre el F1 responde al contexto de negocio: en un sistema de alerta temprana es preferible una falsa alarma a no detectar un terremoto severo.
 
 ---
 
